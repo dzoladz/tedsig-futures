@@ -19,7 +19,7 @@ We might consider post-pandemic libraries to be behind us, or immediately facing
 
 |      |
 | -------- :|
-| ![](https://github.com/dzoladz/tedsig-climate/blob/master/futures_cone.png?raw=true)  Attribution: [Joseph Voros](https://thevoroscope.com/2017/02/24/the-futures-cone-use-and-history/) |
+| ![](https://github.com/dzoladz/tedsig-futures/blob/master/futures_cone.png?raw=true)  Attribution: [Joseph Voros](https://thevoroscope.com/2017/02/24/the-futures-cone-use-and-history/) |
 
 This call for proposals seeks submissions for a web-based publication. The finished product will be similar to walking through a curated exhibit at an art gallery, where each contribution stands on its own as a work of art, but together, create an object for reflecting upon our present-day library and information practices.
 
