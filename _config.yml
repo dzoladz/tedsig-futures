@@ -1,0 +1,41 @@
+# site settings
+title: TEDSIG
+subtitle: Speculative Library Futures
+email: derekz@ohionet.org
+description: Proposals accepted until - December 7, 2020<br/>Submissions due - February 1, 2021<br/>Publication by - Late March 2021
+url: # the base hostname & protocol for your site
+author:
+street_address: 123 Somewhere Road
+city: Anywhereville
+state: OH
+zip_code: 55555
+country: United States of America
+phone: (555) 555-5555
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/dzoladz/tedsig-climate
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+# Controls
+showMenu: False
+showTiles: False
+showSummary: True
+showExploreButtons: False

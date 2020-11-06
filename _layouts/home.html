@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+    <!-- Banner -->
+    <section id="banner" class="major">
+        <div class="inner">
+            <header class="major">
+                <h1>{{ page.landing-title }}</h1>
+            </header>
+            <div class="content">
+                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                {% if showExploreButtons %}
+                <ul class="actions">
+                    <li><a href="#one" class="button next scrolly">{{ page.button_text | capitalize }}</a></li>
+                </ul>
+                {% endif %}
+            </div>
+        </div>
+    </section>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- One -->
+        {% if site.showTiles %}
+            {% include tiles.html %}
+        {% endif %}
+
+        <!-- Two -->
+        {% if site.showSummary %}
+        <section id="two">
+            <div class="inner">
+                <!-- <header class="major"> -->
+                <header>
+                    {% assign title = page.summary_title  | split: ' ' %}
+                    {% capture titlecase %}
+                        {% for word in title %}
+                            {{ word | capitalize }}
+                        {% endfor %}
+                    {% endcapture %}
+                    <h2>{{ titlecase }}</h2>
+                </header>
+                <p>{{ content }}</p>
+                {% if showExploreButtons %}
+                <ul class="actions">
+                    <li><a href="landing.html" class="button next">{{ page.button_text | capitalize }}</a></li>
+                </ul>
+                {% endif %}
+            </div>
+        </section>
+        {% endif %}
+
+    </div>
+
+    {% include footer.html %}
+
+</body>
+
+</html>
