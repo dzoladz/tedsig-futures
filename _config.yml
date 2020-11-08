@@ -32,8 +32,8 @@ twitter_url:
 #twitter & open graph card
 twitter_site: '@alaotedsig'
 twitter_creator: '@derek_zoladz'
-oopengraph_description: This call for proposals seeks submissions for a web-based publication on speculative library futures.
-opengraph_image: /assets/images/og_futures_cone.png
+oopengraph_description: 'This call for proposals seeks submissions for a web-based publication on speculative library futures.'
+opengraph_image: og_futures_cone.png
 
 
 # build settings
