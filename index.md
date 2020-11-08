@@ -23,6 +23,8 @@ We might consider post-pandemic libraries to be behind us, or immediately facing
 
 This call for proposals seeks submissions for a web-based publication. The finished product will be similar to walking through a curated exhibit at an art gallery, where each contribution stands on its own as a work of art, but together, create an object for reflecting upon our present-day library and information practices.
 
+We welcome proposals from underrepresented groups, including but not limited to: women, people of color, LGBTQ+, ability/disability, and non-binary gender identities. We also invite proposals from members of underrepresented and/or marginalized groups that don't fit into the categories listed above.
+
 Potential contributions might include:
 - Photoessays
 - Drawings/sketches
