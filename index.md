@@ -32,7 +32,7 @@ Potential contributions might include:
 - Cautionary tales
 - Software/code
 - Object from the future
-- Postcards that travels back in time to us
+- Postcards that travel back in time to us
 - Maps or other fictional cartography
 - Architectural designs
 - Dataset from the future
