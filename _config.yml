@@ -3,7 +3,8 @@ title: TEDSIG
 subtitle: Speculative Library Futures
 email: derekz@ohionet.org
 description: Proposals accepted until - December 7, 2020<br/>Submissions due - February 1, 2021<br/>Publication by - Late March 2021
-url: # the base hostname & protocol for your site
+url: https://futures.alaoweb.org
+
 author:
 street_address: 123 Somewhere Road
 city: Anywhereville
@@ -27,6 +28,13 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url:
+
+#twitter & open graph card
+twitter_site: '@alaotedsig'
+twitter_creator: '@derek_zoladz'
+oopengraph_description: This call for proposals seeks submissions for a web-based publication on speculative library futures.
+opengraph_image: /assets/images/og_futures_cone.png
+
 
 # build settings
 markdown: kramdown
