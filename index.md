@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Call for Proposals - Ended'
+landing-title: 'Coming in March 2021'
 description: null
 image: null
 author: null
