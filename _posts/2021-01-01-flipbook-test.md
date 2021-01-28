@@ -3,6 +3,8 @@ layout: post
 title: Test - Internet Archive Flipbook
 description: Simple test for flipbook includes
 nav-menu: true
+show_tile: false
+author: Derek C. Zoladz
 ---
 
 

@@ -14,7 +14,7 @@ country: United States of America
 phone: (555) 555-5555
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
@@ -44,6 +44,6 @@ sass:
 
 # Controls
 showMenu: False
-showTiles: False
+showTiles: True
 showSummary: True
 showExploreButtons: False
