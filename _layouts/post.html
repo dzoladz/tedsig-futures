@@ -6,26 +6,47 @@
 
 <body>
 
-    {% include header.html %}
-
+{% include header.html %}
 
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>{{ page.title }}</h1>
-		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
-		{{ content }}
-	</div>
-</section>
+	<!-- One -->
+	<section id="one">
+		<div class="inner">
+			<header class="major">
+				<h1>{{ page.title }}</h1>
+			</header>
+
+			{% include author.html %}
+
+		</div>
+	</section>
+
+	{% if page.show_banner_image == true %}
+	<!-- Two -->
+	<section id="two">
+		<div class="inner">
+			{% if page.banner_image %}
+				<span class="image main">
+					<img src="{{ site.baseurl }}/{{ page.banner_image }}" alt="{{ page.banner_image_description }}" />
+				</span>
+			{% endif %}
+		</div>
+	</section>
+	{% endif %}
+
+	<!-- Main Content -->
+	<section id="main-content">
+		<div class="inner">
+			{{ content }}
+		</div>
+	</section>
+
 
 </div>
 
-    {% include footer.html %}
+{% include footer.html %}
 
 </body>
 

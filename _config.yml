@@ -1,17 +1,9 @@
 # site settings
 title: TEDSIG
 subtitle: Speculative Library Futures
-email: derekz@ohionet.org
 description: Call for Proposals - Closed<br/>Accepted Proposals, Due - February 15, 2021<br/>Publication - Late March 2021
 url: https://futures.alaoweb.org
-
-author:
-street_address: 123 Somewhere Road
-city: Anywhereville
-state: OH
-zip_code: 55555
-country: United States of America
-phone: (555) 555-5555
+author: TEDSIG
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

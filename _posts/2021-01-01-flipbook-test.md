@@ -4,7 +4,23 @@ title: Test - Internet Archive Flipbook
 description: Simple test for flipbook includes
 nav-menu: true
 show_tile: false
-author: Derek C. Zoladz
+authors:
+  - {
+    name: "Derek C. Zoladz",
+    email: ,
+    affiliation: ,
+    twitter: ,
+    github: ,
+    website: https://www.derekzoladz.com
+    }
+  - {
+    name: "Jaden Karras",
+    email: ,
+    affiliation: ,
+    twitter: ,
+    github: ,
+    website:
+    }
 ---
 
 

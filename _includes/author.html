@@ -1,0 +1,31 @@
+<section>
+    {% for author in page.authors %}
+        <strong>{{ author.name }}</strong> {{ author.affiliation }} |
+
+        {% if author.email %}
+            <a class="icon" href="mailto:{{ author.email }}">
+                <i class="far fa-envelope"></i>
+            </a>
+        {% endif %}
+
+        {% if author.twitter %}
+            <a class="icon" href="https://twitter.com/{{ author.twitter }}">
+                <i class="fab fa-twitter"></i>
+            </a>
+        {% endif %}
+
+        {% if author.github %}
+            <a class="icon" href="https://github.com/{{ author.github }}">
+                <i class="fab fa-github"></i>
+            </a>
+        {% endif %}
+
+        {% if author.website %}
+            <a class="icon" href="{{ author.website }}">
+                <i class="fas fa-external-link-alt"></i>
+            </a>
+        {% endif %}
+
+    <br/>
+    {% endfor %}
+</section>
