@@ -2,7 +2,7 @@ TEDSIG | Speculative Library Futures
 ====================================
 Project Site
 
-[Example Elements](/elements.html)
+[Example Elements](http://127.0.0.1:4000/elements)
 
 ### Setup
 

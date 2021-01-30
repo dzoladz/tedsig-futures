@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Elements
-show_tile: true
-show_in_menu: true
+show_tile: false
+show_in_menu: false
 ---
 
 <!-- Main -->

@@ -35,6 +35,6 @@ sass:
   style: compressed
 
 # Controls
-showMenu: True
-showTiles: True
+showMenu: false
+showTiles: false
 showSummary: True
