@@ -14,6 +14,7 @@ authors:
     affiliation: ,
     twitter: ,
     github: ,
+    orcid: 0000-0002-7979-8945,
     website: https://www.derekzoladz.com
     }
   - {
