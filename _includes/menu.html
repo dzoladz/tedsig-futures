@@ -1,0 +1,34 @@
+
+<nav id="menu">
+	<ul class="links">
+
+        {% for page in site.pages %}
+		    {% if page.layout == "home" %}
+		        <li>
+                    <a href="{{ "" | absolute_url }}/">{{ page.title }}</a>
+                </li>
+	    	{% endif %}
+		{% endfor %}
+
+        {% for post in site.posts %}
+		    {% if post.layout != "home" and post.show_in_menu == true %}
+		        <li>
+                    <a href="{{ post.url | absolute_url }}/">{{ post.title }}</a>
+                </li>
+	    	{% endif %}
+		{% endfor %}
+
+		{% for page in site.html_pages %}
+		    {% if page.layout != "home" and page.show_in_menu == true %}
+		        <li>
+                    <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
+                </li>
+		    {% endif %}
+		{% endfor %}
+
+	</ul>
+
+	<ul class="actions vertical">
+		<li><a href="#" class="button special fit">Get Started</a></li>
+	</ul>
+</nav>

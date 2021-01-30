@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Test - Internet Archive Flipbook
+title: Internet Archive Flipbook
 description: Simple test for flipbook includes
-nav-menu: true
-show_tile: false
+show_banner_image: false
+banner_image: assets/images/no-image.svg
+banner_image_description: no image available
+show_tile: true
+show_in_menu: true
 authors:
   - {
     name: "Derek C. Zoladz",

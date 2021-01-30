@@ -2,6 +2,8 @@ TEDSIG | Speculative Library Futures
 ====================================
 Project Site
 
+[Example Elements](/elements.html)
+
 ### Setup
 
 1. ```git clone``` the [repo](https://github.com/dzoladz/tedsig-futures.git) from GitHub

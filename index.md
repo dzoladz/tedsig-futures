@@ -6,7 +6,6 @@ description: null
 image: null
 author: null
 show_tile: false
-button_text: explore
 summary_title:
 ---
 

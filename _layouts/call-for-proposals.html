@@ -16,6 +16,11 @@
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
+                {% if showExploreButtons %}
+                <ul class="actions">
+                    <li><a href="#one" class="button next scrolly">{{ page.button_text | capitalize }}</a></li>
+                </ul>
+                {% endif %}
             </div>
         </div>
     </section>

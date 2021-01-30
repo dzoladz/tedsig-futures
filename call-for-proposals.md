@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Home
+layout: call-for-proposals
+title: CFP
 landing-title: 'Coming in March 2021'
 description: null
 image: null
