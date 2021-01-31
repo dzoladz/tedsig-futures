@@ -5,8 +5,10 @@ description: Simple test for flipbook includes
 show_banner_image: false
 banner_image: assets/images/no-image.svg
 banner_image_description: no image available
-show_tile: true
-show_in_menu: true
+tile_image: assets/images/og_futures_cone.png
+tile_image_description:
+show_tile: false
+show_in_menu: false
 authors:
   - {
     name: "Derek C. Zoladz",
@@ -25,8 +27,7 @@ authors:
     github: ,
     website:
     }
+    
 ---
-
-
 
 {% include flipbook.html book-url='https://dzoladz.github.io/ia-flipbook-demo/BookReaderDemo/demo-my-book.html' %}

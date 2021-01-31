@@ -1,6 +1,7 @@
-<section>
+<section class="authors">
     {% for author in page.authors %}
-        <strong>{{ author.name }}</strong> | {{ author.affiliation }} |
+        <strong class="name">{{ author.name }}</strong>
+        <span class="affiliation">{{ author.affiliation }}</span>
 
         {% if author.email %}
             <a class="icon" href="mailto:{{ author.email }}">

@@ -19,7 +19,7 @@
 			width: -ms-max-content;
 			width: max-content;
       max-width: 100%;
-			margin-bottom: _size(element-margin);
+			//margin-bottom: _size(element-margin);
 
 			> :first-child {
 				  margin-bottom: 0;
@@ -68,3 +68,26 @@
 			}
 		}
 	}
+
+
+/* Authors */
+
+    .authors {
+        margin-bottom: 2em;
+
+        .name {
+            margin-right: 10px;
+            padding-right: 1em;
+            border-right: 1px solid white;
+        }
+
+        .affiliation {
+            margin-right: 10px;
+            padding-right: 1em;
+            border-right: 1px solid white;
+        }
+
+        .icon {
+            margin: 0px 2px 0px 2px;
+        }
+    }
