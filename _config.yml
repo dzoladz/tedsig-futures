@@ -30,6 +30,8 @@ opengraph_image: og_futures_cone.png
 
 # build settings
 markdown: kramdown
+kramdown:
+  footnote_backlink: "&#x21A9;&#xFE0E;"
 
 sass:
   style: compressed

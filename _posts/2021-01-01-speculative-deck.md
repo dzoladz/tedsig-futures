@@ -22,7 +22,7 @@ authors:
   - {
     name: "Mackenzie Salisbury",
     email: "ssalis1@saic.edu",
-    affiliation: "School of the Art Institute of Chicago, Flaxman Library",
+    affiliation: "School of the Art Institute of Chicago, John M. Flaxman Library",
     twitter: ,
     github: ,
     orcid: ,
