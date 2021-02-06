@@ -12,9 +12,20 @@
 	<meta property="og:description" content="{{ site.opengraph_description }}" />
 	<meta property="og:image" content="{{ site.url }}/assets/images/{{ site.opengraph_image }}" />
 
-	<!--[if lte IE 8]><script src="{{ "assets/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
+	<!-- BookReader JS dependencies -->
+    <script src="../../../assets/BookReader/jquery-1.10.1.js"></script>
+    <script src="../../../assets/BookReader/jquery-ui-1.12.0.min.js"></script>
+    <script src="../../../assets/BookReader/jquery.ui.touch-punch.min.js"></script>
+    <script src="../../../assets/BookReader/jquery.browser.min.js"></script>
+    <script src="../../../assets/BookReader/dragscrollable-br.js"></script>
+    <script src="../../../assets/BookReader/jquery.colorbox-min.js"></script>
+    <script src="../../../assets/BookReader/BookReader.js"></script>
+    <link rel="stylesheet" href="{{ site.url }}/assets/BookReader/BookReader.css"/>
+
+
+	<!--[if lte IE 8]><script src="{{ "images/js/ie/html5shiv.js" | relative_url }}"></script><![endif]-->
 	<link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
 	<script src="https://kit.fontawesome.com/e078487c0b.js" crossorigin="anonymous"></script>
-	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
-	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
+	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "images/css/ie9.css" | relative_url }}" /><![endif]-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "images/css/ie8.css" | relative_url }}" /><![endif]-->
 </head>

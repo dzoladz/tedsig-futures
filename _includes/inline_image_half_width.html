@@ -1,7 +1,7 @@
 <!-- {% comment %}
 Parameters available to be passed into this IncludeFile
 
-image: filename located in /assets/images
+image: filename located in /images/images
 description: image alt value
 label_key:
 label_value:
@@ -21,6 +21,6 @@ Example Use:
 
 {% endcomment %} -->
 
-<div class="inline-image-half" style="float:{{ include.float }};">
+<div class="inline-image-half-{{ include.float }}" style="float:{{ include.float }};">
       <img src="/assets/images/{{ include.image }}" alt="{{ include.description }}"> {{ include.label_key }} <a href="{{ include.label_url }}"> {{ include.label_value }}</a>
 </div>
