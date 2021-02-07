@@ -31,6 +31,8 @@ authors:
 
 ---
 
+Add a brief introductory text and provide a button to launch the app.
+
 <!--
 <script>
     setTimeout(function(){
