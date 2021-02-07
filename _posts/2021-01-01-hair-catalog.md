@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hair Catalog
+title: Title of Work
 description: short description of work
 show_banner_image: false
 banner_image: assets/images/no-image.svg

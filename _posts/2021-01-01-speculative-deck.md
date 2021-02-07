@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Speculative Card Deck
+title: Title of Work
 description: short description of work
 show_banner_image: false
 banner_image: assets/images/no-image.svg
 banner_image_description: no image available
-tile_image: assets/images/og_futures_cone.png
+tile_image: assets/images/speculative_card_deck.png
 tile_image_description:
 show_tile: true
 show_in_menu: true

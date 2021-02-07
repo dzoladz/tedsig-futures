@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Alternative Art History
-description: Shannon Marie Robinson
+title: Title of Work
+description: Short Description of Work
 show_banner_image: false
 banner_image: assets/images/no-image.svg
 banner_image_description: no image available
