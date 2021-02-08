@@ -158,19 +158,17 @@ function instantiateBookReader(selector, extraOptions) {
     ],
 
     // Book title and the URL used for the book title link
-    bookTitle: 'BookReader Demo',
-    bookUrl: '../index.html',
-    bookUrlText: 'Back to Demos',
-    bookUrlTitle: 'This is the book URL title',
+    bookTitle: '',
+    bookUrl: '',
+    bookUrlText: '',
+    bookUrlTitle: '',
 
     // thumbnail is optional, but it is used in the info dialog
     thumbnail: '../../../assets/books/alternate_art_history/images/0.jpg',
     // Metadata is optional, but it is used in the info dialog
     metadata: [
-      {label: 'Title', value: 'Lines'},
-      {label: 'Illustrations', value: 'Jaden Karras'},
-      {label: 'Author', value: 'Derek Zoladz'},
-      {label: 'Demo Info', value: 'This demo shows how one could use BookReader with their own content.'},
+      {label: 'Title', value: 'Alternate Art History'},
+      {label: 'Compiled by', value: 'Shannon Marie Robinson'},
     ],
 
     // Override the path used to find UI images
