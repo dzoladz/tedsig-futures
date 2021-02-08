@@ -77,7 +77,7 @@ function instantiateBookReader(selector, extraOptions) {
     thumbnail: '../../../assets/books/hair_catalog_assessment/images/0.jpg',
     // Metadata is optional, but it is used in the info dialog
     metadata: [
-      {label: 'Title', value: 'Alternate Art History'},
+      {label: 'Title', value: 'Hair Catalog - A Collection Assessment'},
       {label: 'Compiled by', value: 'Shannon Marie Robinson'},
     ],
 
