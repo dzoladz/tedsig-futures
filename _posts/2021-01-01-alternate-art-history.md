@@ -56,6 +56,10 @@ Alternative Art History examines readers engagement with one another through pri
 
 In Alternative Art History, only the readers are preserved. To save their scholarly conversation, the librarian keeps only text that had been considered important to past readers. Social navigation is evident in these books’ pages. Once a book has been edited by a user, future users build on those edits, evidenced by highlighted text that is also underlined, highlighted again, or commented on in the margins. These navigations determine what information in the book is most valuable. The underlining, highlighting, and annotation become the new art history textbook.
 
+{% include inline_bookreader.html
+    book_directory='alternate_art_history'
+%}
+
 ## Bibliography
 
 <span class="citation">“About.” 2021. Book Traces. Accessed January 30, 2021. [https://booktraces-public.lib.virginia.edu/about](https://booktraces-public.lib.virginia.edu/about).</span>
