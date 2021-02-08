@@ -43,35 +43,41 @@ The estimated daily scalp hair loss is between 100-150 hairs, therefore the pres
 {% include inline_image_half_width.html
     image='masterpieces.jpg'
     description='description'
-    label_key='Masterpieces of Fifty Centuries'
+    label_key='Fig. 1 - Masterpieces of Fifty Centuries'
     label_value=''
     label_url=''
     float='left'
 %}
 
-[INSERT MASTERPIECES JPG HERE WITH THIS PARAGRAPH] The hairs were collected at an institutional library where I once worked. While examining books for withdrawal, I flipped through the pages to understand subject matter, image quality, and condition. Given my subject expertise in art, most of the books are about fine arts. When a hair was found between the pages, I taped it to paper and noted the book title. Each book’s attributes for Hair Catalog are from WorldCat metadata; the entire collection can be accessed as a [WorldCat public list](https://www.worldcat.org/profiles/artistlibrarian/lists/4007103). Determinations of hair attributes were set against the author’s own hair - straight, fine, brown hair - meaning that the entire process of cataloging was subjective. As an example, a fine, straight brown hair with a tapered tip and 5.4cm in length found in Kenneth Clark’s [Masterpieces of Fifty Centuries](http://www.worldcat.org/oclc/876328294) has the Hair Catalog call number br.f.s.t.5.4.
+The hairs were collected at an institutional library where I once worked. While examining books for withdrawal, I flipped through the pages to understand subject matter, image quality, and condition. Given my subject expertise in art, most of the books are about fine arts. When a hair was found between the pages, I taped it to paper and noted the book title. Each book’s attributes for Hair Catalog are from WorldCat metadata; the entire collection can be accessed as a [WorldCat public list](https://www.worldcat.org/profiles/artistlibrarian/lists/4007103). Determinations of hair attributes were set against the author’s own hair - straight, fine, brown hair - meaning that the entire process of cataloging was subjective. As an example, a fine, straight brown hair with a tapered tip and 5.4cm in length found in Kenneth Clark’s [Masterpieces of Fifty Centuries](http://www.worldcat.org/oclc/876328294) has the Hair Catalog call number br.f.s.t.5.4.
+
+<div style="clear: both;"></div>
 
 {% include inline_image_half_width.html
     image='hair_catalog.jpg'
     description='description'
-    label_key='Fig. 1'
+    label_key='Fig. 2 - Hair Catalog'
     label_value=''
     label_url=''
-    float='left'
+    float='right'
 %}
 
-[INSERT HAIR CATALOG JPG WITH THIS PARAGRAPH] In Hair Catalog, the call number is derived from Robertson’s attributes. This project falls within associative design by asking viewers to use their “familiarity with form, typology, and design language” (Malpass 2013, 337). Instead of traditional metadata of a library book, such as title and author, Hair Catalog uses metadata of forensic examination. While the metadata schema is unfamiliar, the process of identifying attributes to describe an object is understood. The Catalog consists of two hundred human hair samples. While I had more than two hundred samples, the decision was made to cap the project and begin analysis. Here, too, there is subjectivity in acquisition as I selected hairs from my total collection that appeared unique and contained ample information. To diversify the collection, hairs other than a shade of brown were prized, especially those of a reddish hue. Curly and coarse hairs were also rare and therefore valued. Of the two hundred hair samples, three were lost in processing. Three samples were broken during cataloging; one of these was repaired. Two samples were already damaged by knots and only three included the hair root. Another three were identified as animal hair and, along with one paint brush bristle, set aside for special collections.
+In Hair Catalog, the call number is derived from Robertson’s attributes. This project falls within associative design by asking viewers to use their “familiarity with form, typology, and design language” (Malpass 2013, 337). Instead of traditional metadata of a library book, such as title and author, Hair Catalog uses metadata of forensic examination. While the metadata schema is unfamiliar, the process of identifying attributes to describe an object is understood. The Catalog consists of two hundred human hair samples. While I had more than two hundred samples, the decision was made to cap the project and begin analysis. Here, too, there is subjectivity in acquisition as I selected hairs from my total collection that appeared unique and contained ample information. To diversify the collection, hairs other than a shade of brown were prized, especially those of a reddish hue. Curly and coarse hairs were also rare and therefore valued. Of the two hundred hair samples, three were lost in processing. Three samples were broken during cataloging; one of these was repaired. Two samples were already damaged by knots and only three included the hair root. Another three were identified as animal hair and, along with one paint brush bristle, set aside for special collections.
 
-[INSERT ROLODEX CATALOG JPG WITH THIS PARAGRAPH] A Rolodex model V535 is used to house the card catalog. Rolodex, first introduced in the mid-twentieth century, was intended to keep contact information of business associates, friends, and family on alphabetically-filed index cards. The use of a Rolodex for a hair catalog, a collection of anonymous persons, is intentional. Coincidentally, this purchased Rolodex was originally someone else’s library catalog, demonstrating the commonalities between filing metadata for people and books. Their collection includes titles such as [Elementary Engineering Thermodynamics](http://www.worldcat.org/oclc/504386201), [Practical Taxidermy](http://www.worldcat.org/oclc/964436574), [Prince Valiant and the Golden Princess](http://www.worldcat.org/oclc/873302555), and [Twenty-five Vegetables Anyone Can Grow](http://www.worldcat.org/oclc/1020250081). They also cataloged an autographed copy of [Terry’s Hunters](http://www.worldcat.org/oclc/223367479).
+<div style="clear: both;"></div>
 
 {% include inline_image_half_width.html
     image='rolodex_catalog.jpg'
     description='description'
-    label_key='Rolodex Catalog'
+    label_key='Fig. 3 - Rolodex model V535 Catalog'
     label_value=''
     label_url=''
     float='left'
 %}
+
+A Rolodex model V535 is used to house the card catalog. Rolodex, first introduced in the mid-twentieth century, was intended to keep contact information of business associates, friends, and family on alphabetically-filed index cards. The use of a Rolodex for a hair catalog, a collection of anonymous persons, is intentional. Coincidentally, this purchased Rolodex was originally someone else’s library catalog, demonstrating the commonalities between filing metadata for people and books. Their collection includes titles such as [Elementary Engineering Thermodynamics](http://www.worldcat.org/oclc/504386201), [Practical Taxidermy](http://www.worldcat.org/oclc/964436574), [Prince Valiant and the Golden Princess](http://www.worldcat.org/oclc/873302555), and [Twenty-five Vegetables Anyone Can Grow](http://www.worldcat.org/oclc/1020250081). They also cataloged an autographed copy of [Terry’s Hunters](http://www.worldcat.org/oclc/223367479).
+
+<div style="clear: both;"></div>
 
 Forty-five percent of samples are of moderate thickness, followed by 41% fine and only 14% coarse. Most of the coarse hairs are black. All white hairs and almost all yellow hairs were fine. A majority of the collection are straight samples, at 69%, with 22% wavy, and 9% curly. Overall, people take good care of their hair; almost half (49%) of tips were cut, 41% tapered, with only marginal damage by fraying (3%) or split ends (7%).
 
@@ -84,24 +90,28 @@ Books 29cm or shorter in height had an average shorter hair length (6cm) than bo
 {% include inline_image_half_width.html
     image='automatic_cities.jpg'
     description='description'
-    label_key='Fig. 1'
+    label_key='Fig. 4 - Automatic Cities'
     label_value=''
     label_url=''
-    float='right'
+    float='left'
 %}
 
-[INSERT AUTOMATIC CITIES JPG WITH THIS PARAGRAPH] Marilyn Stokstad’s [All About Art: An Essential History](http://www.worldcat.org/oclc/1062003389) was used by someone with black coarse hair and someone with dark yellow fine hair. [Automatic Cities: The Architectural Imaginary in Contemporary Art](http://www.worldcat.org/oclc/326587231) was also used by people with black coarse and yellow fine hairs. Is the person with black coarse straight hair at 0.9cm length who read [Automatic Cities: The Architectural Imaginary in Contemporary Art](http://www.worldcat.org/oclc/326587231) the same as the person with black coarse straight hair at 0.9 cm who read [Artistic Expression: A Sociological Analysis](http://www.worldcat.org/oclc/803843429)?
+Marilyn Stokstad’s [All About Art: An Essential History](http://www.worldcat.org/oclc/1062003389) was used by someone with black coarse hair and someone with dark yellow fine hair. [Automatic Cities: The Architectural Imaginary in Contemporary Art](http://www.worldcat.org/oclc/326587231) was also used by people with black coarse and yellow fine hairs. Is the person with black coarse straight hair at 0.9cm length who read [Automatic Cities: The Architectural Imaginary in Contemporary Art](http://www.worldcat.org/oclc/326587231) the same as the person with black coarse straight hair at 0.9 cm who read [Artistic Expression: A Sociological Analysis](http://www.worldcat.org/oclc/803843429)?
+
+<div style="clear: both;"></div>
 
 {% include inline_image_half_width.html
     image='caravaggio.jpg'
     description='description'
-    label_key='Fig. 1'
+    label_key='Fig. 5 - Caravaggio'
     label_value=''
     label_url=''
     float='right'
 %}
 
-[INSERT CARAVAGGIO JPG WITH THIS PARAGRAPH] Was the person reading [Calder’s Universe](http://www.worldcat.org/oclc/958867476) who lost at least three hairs, two with the roots, stressed or sick? Or Witting’s [Caravaggio](http://www.worldcat.org/oclc/76936497)? Overall, Caravaggio books have a lot of hair; this suggests intimate reading. [Picasso](http://www.worldcat.org/oclc/1046498863) by Elgar and Maillard had at least four different people lose hair between the pages. It’s one of the smaller books in height, but relatively weighty in pages. It would take time to skim, let alone read in depth, suggesting that the longer spent with a book, the more likely hair would drift into the pages. Hair falling from a reader while lingering over a page spread, deeply gazing at an image. Flipping through these books’ pages, looking for evidence of use, of people, is seemingly nostalgic in a pandemic era. Preserve the reader.
+Was the person reading [Calder’s Universe](http://www.worldcat.org/oclc/958867476) who lost at least three hairs, two with the roots, stressed or sick? Or Witting’s [Caravaggio](http://www.worldcat.org/oclc/76936497)? Overall, Caravaggio books have a lot of hair; this suggests intimate reading. [Picasso](http://www.worldcat.org/oclc/1046498863) by Elgar and Maillard had at least four different people lose hair between the pages. It’s one of the smaller books in height, but relatively weighty in pages. It would take time to skim, let alone read in depth, suggesting that the longer spent with a book, the more likely hair would drift into the pages. Hair falling from a reader while lingering over a page spread, deeply gazing at an image. Flipping through these books’ pages, looking for evidence of use, of people, is seemingly nostalgic in a pandemic era. Preserve the reader.
+
+<div style="clear: both;"></div>
 
 ## Bibliography
 
