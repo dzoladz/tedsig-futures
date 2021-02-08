@@ -81,7 +81,9 @@ A Rolodex model V535 is used to house the card catalog. Rolodex, first introduce
 
 Forty-five percent of samples are of moderate thickness, followed by 41% fine and only 14% coarse. Most of the coarse hairs are black. All white hairs and almost all yellow hairs were fine. A majority of the collection are straight samples, at 69%, with 22% wavy, and 9% curly. Overall, people take good care of their hair; almost half (49%) of tips were cut, 41% tapered, with only marginal damage by fraying (3%) or split ends (7%).
 
-[Option: INSERT SLIDESHOW HERE]
+{% include inline_bookreader.html
+    book_directory='hair_catalog_assessment'
+%}
 
 The subjects of the books vary, but are dominated by American or Italian art and artists. Those with black hair were interested in Italian art while those with brown or yellow hair preferred American art. People with short hair favored books on abstract expressionism. Mostly those with straight hair used books on Chinese art or artists. People with moderately thick hair selected books on Caravaggio while books about Pablo Picasso were only used by straight-haired people. Only people with brown hair read books on Japanese art and they did not read anything about architecture.
 
