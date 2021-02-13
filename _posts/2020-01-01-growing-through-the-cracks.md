@@ -5,28 +5,28 @@ description: short description of work
 show_banner_image: false
 banner_image: assets/images/no-image.svg
 banner_image_description: no image available
-tile_image: assets/images/hair_catalog.jpg
+tile_image: assets/images/reciprocity-2.jpg
 tile_image_description:
 show_tile: true
 show_in_menu: true
 authors:
   - {
-    name: "Shannon Marie Robinson",
-    email: "smrob@upenn.edu",
-    affiliation: "University of Pennsylvania, Fisher Fine Arts Library",
-    twitter: "TwoGreatOaks",
+    name: "Heidi Beke-Harrigan, Poems",
+    email: ,
+    affiliation: ,
+    twitter: ,
     github: ,
-    orcid: 0000-0001-5579-8679,
-    website: http://shannonmarierobinson.com/
+    orcid: ,
+    website: 
     }
   - {
-    name: "Shannon Marie Robinson",
-    email: "smrob@upenn.edu",
-    affiliation: "University of Pennsylvania, Fisher Fine Arts Library",
-    twitter: "TwoGreatOaks",
+    name: "Katie DeJongh, Artwork",
+    email: ,
+    affiliation: ,
+    twitter: ,
     github: ,
-    orcid: 0000-0001-5579-8679,
-    website: http://shannonmarierobinson.com/
+    orcid: ,
+    website: 
     }
     
 ---
@@ -49,6 +49,8 @@ Each haiku style poem and painting pair represents a seed, an invitation for dia
 
 <div style="clear: both;"></div>
 
+<div class="poem-row"> 
+
 {% include inline_image_half_width.html
     image='reciprocity-1.jpg'
     description='description'
@@ -64,7 +66,11 @@ in stillness gathers strength, from<br/>
 reimagined stacks.
 </div>
 
+</div>
+
 <div style="clear: both;"></div>
+
+<div class="poem-row"> 
 
 {% include inline_image_half_width.html
     image='reciprocity-2.jpg'
@@ -81,7 +87,11 @@ weaves new metadata threads...<br/>
 brave sparks of knowing.
 </div>
 
+</div>
+
 <div style="clear: both;"></div>
+
+<div class="poem-row"> 
 
 {% include inline_image_half_width.html
     image='reciprocity-3.jpg'
@@ -96,6 +106,8 @@ brave sparks of knowing.
 At the juncture of<br/>
 nature and culture, we build<br/>
 the third space of hope.
+</div>
+
 </div>
 
 <div style="clear: both;"></div>
