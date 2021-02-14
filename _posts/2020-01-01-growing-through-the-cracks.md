@@ -116,20 +116,114 @@ the third space of hope.
 <div style="clear: both;"></div>
 <hr/>
 
-## Reading List
+## Testing space
 
-<span class="citation">Aldrich, Rebekkah Smith. <em>Sustainable Thinking: Ensuring Your Library’s Future in an Uncertain World</em>. Chicago: ALA Editions, 2018.</span>
+<!-- Trigger/Open The Modal -->
+<button id="readingList" class="modalButton">Reading List</button>
+<button id="present" class="modalButton">Present</button>
+<button id="nearFuture" class="modalButton">Near Future</button>
+<button id="indeterminateFuture" class="modalButton">Indeterminate Future</button>
 
-<span class="citation">Benyus, Janine. <em>Biomimicry: Innovation Inspired by Nature</em>. New York: Perennial, 2002.</span>
 
-<span class="citation">Kimmerer, Robin Wall and Krista Tippett, “867: “The Intelligence of Plants.” Produced by The On Being Project. <em>On Being</em>. August 20, 2020. Podcast, MP3 audio.  [https://onbeing.org/programs/robin-wall-kimmerer-the-intelligence-of-plants/](https://onbeing.org/programs/robin-wall-kimmerer-the-intelligence-of-plants/). </span>
+<!-- READING LIST | Modal -->
+<div id="readingListText" class="modal">
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <span class="closeModal">&times;</span>
+      <h2>READING LIST</h2>
+    </div>
+    <div class="modal-body">
+        <div class="modal-spacer"></div>
+        <span class="citation">Aldrich, Rebekkah Smith. <em>Sustainable Thinking: Ensuring Your Library’s Future in an Uncertain World</em>. Chicago: ALA Editions, 2018.</span>
+        <div class="modal-spacer"></div>
+        <span class="citation">Benyus, Janine. <em>Biomimicry: Innovation Inspired by Nature</em>. New York: Perennial, 2002.</span>
+        <div class="modal-spacer"></div>
+        <span class="citation">Kimmerer, Robin Wall and Krista Tippett, “867: “The Intelligence of Plants.” Produced by The On Being Project. <em>On Being</em>. August 20, 2020. Podcast, MP3 audio.  <a href="https://onbeing.org/programs/robin-wall-kimmerer-the-intelligence-of-plants/" target="_blank">https://onbeing.org/programs/robin-wall-kimmerer-the-intelligence-of-plants/</a>.</span>
+        <div class="modal-spacer"></div>
+        <span class="citation">Kimmerer, Robin Wall. <em>Gathering Moss: A Natural and Cultural History of Mosses</em>. Oregon: Oregon State University Press, 2003.</span>
+        <div class="modal-spacer"></div>
+        <span class="citation">Hassenzahl, Marc. <em>Experience Design: Technology for all the Right Reasons</em>. San Rafael: Morgan & Claypool, 2010.</span>
+        <div class="modal-spacer"></div>
+        <span class="citation">Kellert, Stephen, Judith Herrwagen, and Martin Mador. <em>Biophilic Design: The Theory, Science, and Practice of Bringing Buildings to Life</em>. Hoboken: Wiley, 2013.</span>
+        <div class="modal-spacer"></div>
+        <span class="citation">Odell, Jenny. <em>How to Do Nothing: Resisting the Attention Economy</em>.  Brooklyn: Melville House, 2019.</span>
+        <div class="modal-spacer"></div>
+        <span class="citation">Ellen Macarthur Foundation. “What is the Circular Economy,” Circular Economy. <a href="https://www.ellenmacarthurfoundation.org/circular-economy/what-is-the-circular-economy" target="_blank">https://www.ellenmacarthurfoundation.org/circular-economy/what-is-the-circular-economy</a> (accessed December 2, 2010).</span>
+        <div class="modal-spacer"></div>
+    </div>
+  </div>
+</div>
 
-<span class="citation">Kimmerer, Robin Wall. <em>Gathering Moss: A Natural and Cultural History of Mosses</em>. Oregon: Oregon State University Press, 2003.</span>
 
-<span class="citation">Hassenzahl, Marc. <em>Experience Design: Technology for all the Right Reasons</em>. San Rafael: Morgan & Claypool, 2010.</span>
+<!-- PRESENT | Modal -->
+<div id="presentText" class="modal">
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <span class="closeModal">&times;</span>
+      <h2>PRESENT MODAL</h2>
+    </div>
+    <div class="modal-body">
+      <p>Some text in the Modal Body</p>
+    </div>
+  </div>
+</div>
 
-<span class="citation">Kellert, Stephen, Judith Herrwagen, and Martin Mador. <em>Biophilic Design: The Theory, Science, and Practice of Bringing Buildings to Life</em>. Hoboken: Wiley, 2013.</span>
 
-<span class="citation">Odell, Jenny. <em>How to Do Nothing: Resisting the Attention Economy</em>.  Brooklyn: Melville House, 2019.</span>
+<!-- NEAR FUTURE | Modal -->
+<div id="nearFutureText" class="modal">
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <span class="closeModal">&times;</span>
+      <h2>nearFuture</h2>
+    </div>
+    <div class="modal-body">
+      <p>nearFuture</p>
+    </div>
+  </div>
+</div>
 
-<span class="citation">Ellen Macarthur Foundation. “What is the Circular Economy,” Circular Economy. [https://www.ellenmacarthurfoundation.org/circular-economy/what-is-the-circular-economy](https://www.ellenmacarthurfoundation.org/circular-economy/what-is-the-circular-economy) (accessed December 2, 2010).</span>
+
+<!-- INDETERMINATE Future | Modal -->
+<div id="indeterminateFutureText" class="modal">
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <span class="closeModal">&times;</span>
+      <h2>indeterminateFuture</h2>
+    </div>
+    <div class="modal-body">
+      <p>indeterminateFuture</p>
+    </div>
+  </div>
+</div>
+
+
+
+<script>
+
+// When the user clicks anywhere outside of the modal, close it
+//window.onclick = function(event) {
+//  if (event.target == modal) {
+//    modal.style.display = "none";
+//  }
+//}
+
+$(document).ready(function() {
+    $('.modalButton').click(function() {
+        var id = this.getAttribute('id')
+        console.log(id);
+        div = (id + 'Text');
+        // display modal
+        $('#'+div).css("display", "block");
+        // close modal
+        $('.closeModal').click(function() {
+            $('#'+div).css("display", "none");
+        });
+    });
+});
+
+
+</script>
