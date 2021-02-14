@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Title of Work
+title: Hair Catalog
 description: short description of work
 show_banner_image: false
 banner_image: assets/images/no-image.svg
@@ -17,7 +17,7 @@ authors:
     twitter: "TwoGreatOaks",
     github: ,
     orcid: 0000-0001-5579-8679,
-    website: http://shannonmarierobinson.com/
+    website: "http://shannonmarierobinson.com"
     }
     
 ---

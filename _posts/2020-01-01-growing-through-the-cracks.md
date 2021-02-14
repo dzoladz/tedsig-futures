@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Title of Work
+title: Growing Through the Cracks
 description: short description of work
 show_banner_image: false
 banner_image: assets/images/no-image.svg
