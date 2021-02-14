@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speculative Card Deck
-description: short description of work
+description: Shannon Marie Robinson<br/>Mackenzie Salisbury
 show_banner_image: false
 banner_image: assets/images/no-image.svg
 banner_image_description: no image available
@@ -31,7 +31,7 @@ authors:
 
 ---
 
-Add a brief introductory text and provide a button to launch the app.
+Add a brief introductory text and provide a button to <a href="https://dzoladz.github.io/card-reader-app/" target="_blank">launch the app</a>.
 
 <!--
 <script>
