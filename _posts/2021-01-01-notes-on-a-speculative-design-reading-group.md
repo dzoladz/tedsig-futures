@@ -36,7 +36,7 @@ because it can be about exploring how different kinds of futures might affect
 different people. I think it's important to do this because the benefits and
 harms of particular futures will always be distributed unevenly.*
 
-## Speculative design, climate, and "problem solving"
+## Speculative Design, Climate, and "Problem Solving"
 
 Discussions about "what is the difference between art and design?" might seem a
 little annoying and self-important to outsiders&mdash;but I think in the
@@ -69,7 +69,7 @@ that it would be wrong for people to not explore how their respective fields
 might respond to climate. These problems seem big enough that everyone should
 at least try, in whatever way they can. 
 
-## Processing current events in the group
+## Processing Current Events in the Group
 
 If I had to characterize this year's reading group I would say that they were
 contemplative, with participants listening carefully and leaving space for each
@@ -131,7 +131,7 @@ the Superflux tarot deck. It was fun&mdash;which felt strange, and in the
 bigger picture of what we were exploring this strangeness seems worth exploring
 too.
 
-## The future as contested territory
+## The Future as Contested Territory
 
 The problems that we're looking at may not be possible to "solve", and I'm
 critical of the way designers decompose problems and use design methods on them
