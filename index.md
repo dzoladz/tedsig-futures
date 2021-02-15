@@ -9,6 +9,8 @@ show_tile: false
 summary_title:
 ---
 
+<hr/>
+
 We might consider post-pandemic libraries to be behind us, or immediately facing us; or, perhaps they're far beyond any near-term horizon. Remote, distant, or extending through centuries into a yet-unimagined future. 'Post-pandemic' is an intentionally nebulous frame of reference, affording almost instantaneous, molecular futures, while simultaneously opening a fissure in contemporary reality: an opportunity for the as-of-yet-unthought-of to be released unto the world.
 
 |      |

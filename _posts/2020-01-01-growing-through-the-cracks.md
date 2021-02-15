@@ -5,7 +5,7 @@ description: Heidi Beke-Harrigan<br/>Katie DeJongh
 show_banner_image: false
 banner_image: assets/images/no-image.svg
 banner_image_description: no image available
-tile_image: assets/images/reciprocity-3.jpg
+tile_image: assets/images/reciprocity-tile.jpg
 tile_image_description:
 show_tile: true
 show_in_menu: true
