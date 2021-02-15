@@ -17,7 +17,7 @@ authors:
     twitter: "johnjungdotus",
     github: "johnjung",
     orcid: ,
-    website: https://johnjung.us/
+    website: "https://johnjung.us"
     }
     
 ---
