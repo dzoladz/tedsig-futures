@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Notes on a speculative design reading group
-description: Text
+title: Notes on a Speculative Design Reading Group
+description: John Jung
 show_banner_image: false
 banner_image: assets/images/no-image.svg
 banner_image_description: no image available
