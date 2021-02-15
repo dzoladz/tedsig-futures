@@ -106,6 +106,7 @@ function instantiateBookReader(selector, extraOptions) {
     el: selector,
 
     startFullscreen: false,
+
   };
   $.extend(options, extraOptions);
   var br = new BookReader(options);

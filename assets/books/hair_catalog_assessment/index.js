@@ -91,6 +91,8 @@ function instantiateBookReader(selector, extraOptions) {
     startFullscreen: false,
 
     defaults: 'mode/1up',
+
+    showToolbar: false,
   };
   $.extend(options, extraOptions);
   var br = new BookReader(options);
