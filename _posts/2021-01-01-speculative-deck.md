@@ -5,7 +5,7 @@ description: Shannon Marie Robinson<br/>Mackenzie Salisbury
 show_banner_image: false
 banner_image: assets/images/no-image.svg
 banner_image_description: no image available
-tile_image: assets/images/speculative_card_deck.png
+tile_image: assets/images/deck.jpg
 tile_image_description:
 show_tile: true
 show_in_menu: true
