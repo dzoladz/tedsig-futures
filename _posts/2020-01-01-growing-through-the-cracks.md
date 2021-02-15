@@ -162,10 +162,10 @@ the third space of hope.
   <div class="modal-content">
     <div class="modal-header">
       <span class="closeModal">&times;</span>
-      <h2>PRESENT MODAL</h2>
+      <h2>Present</h2>
     </div>
     <div class="modal-body">
-      <p>Some text in the Modal Body</p>
+      <p>The library as a place of listening and language; a still point of gathering strength that can launch us into something new, a clarifying energy for the long haul.</p>
     </div>
   </div>
 </div>
@@ -177,10 +177,10 @@ the third space of hope.
   <div class="modal-content">
     <div class="modal-header">
       <span class="closeModal">&times;</span>
-      <h2>nearFuture</h2>
+      <h2>Near Future</h2>
     </div>
     <div class="modal-body">
-      <p>nearFuture</p>
+      <p>Metadata and schemas provide language and structure to acknowledge and reflect on speculative questions such as the animacy of the natural world and our place in it.</p>
     </div>
   </div>
 </div>
@@ -192,10 +192,10 @@ the third space of hope.
   <div class="modal-content">
     <div class="modal-header">
       <span class="closeModal">&times;</span>
-      <h2>indeterminateFuture</h2>
+      <h2>Indeterminate Future</h2>
     </div>
     <div class="modal-body">
-      <p>indeterminateFuture</p>
+      <p>Libraries at the center of regeneration through collective impact. Could be inspired by biophilic integrated design, reciprocal ecosystems, evolving power structures, changing social constructs, circular economies or any number of creative forces, both known and yet to be imagined or articulated.</p>
     </div>
   </div>
 </div>
