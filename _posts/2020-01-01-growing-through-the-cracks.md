@@ -204,16 +204,9 @@ the third space of hope.
 
 <script>
 
-// When the user clicks anywhere outside of the modal, close it
-//window.onclick = function(event) {
-//  if (event.target == modal) {
-//    modal.style.display = "none";
-//  }
-//}
-
 $(document).ready(function() {
     $('.modalButton').click(function() {
-        var id = this.getAttribute('id')
+        var id = this.getAttribute('id');
         console.log(id);
         div = (id + 'Text');
         // display modal
@@ -224,6 +217,5 @@ $(document).ready(function() {
         });
     });
 });
-
 
 </script>
