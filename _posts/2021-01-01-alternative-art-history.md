@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Alternate Art History
+title: Alternative Art History
 description: Shannon Marie Robinson
 show_banner_image: false
 banner_image: assets/images/no-image.svg
 banner_image_description: no image available
-tile_image: assets/images/alternate_art_history.jpg
+tile_image: assets/images/alternative_art_history.jpg
 tile_image_description:
 show_tile: true
 show_in_menu: true
@@ -57,7 +57,7 @@ Alternative Art History examines readers engagement with one another through pri
 In Alternative Art History, only the readers are preserved. To save their scholarly conversation, the librarian keeps only text that had been considered important to past readers. Social navigation is evident in these books’ pages. Once a book has been edited by a user, future users build on those edits, evidenced by highlighted text that is also underlined, highlighted again, or commented on in the margins. These navigations determine what information in the book is most valuable. The underlining, highlighting, and annotation become the new art history textbook.
 
 {% include inline_bookreader.html
-    book_directory='alternate_art_history'
+    book_directory='alternative_art_history'
 %}
 
 ## Bibliography
