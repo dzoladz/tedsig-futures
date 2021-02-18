@@ -31,3 +31,6 @@ authors:
     
 ---
 
+{% include inline_bookreader.html
+    book_directory='alexandria_business_proposal'
+%}
