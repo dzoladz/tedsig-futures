@@ -16,11 +16,13 @@ Example Use:
     label_value=''
     label_url=''
     float='right'
+    data_id=''
+    class=''
 %}
 
 
 {% endcomment %} -->
 
-<div class="inline-image-half-{{ include.float }}" style="float:{{ include.float }};">
+<div data-id="{{ include.data_id }}" class="inline-image-half-{{ include.float }} {{ include.class }}" style="float:{{ include.float }};" id="present">
       <img src="/assets/images/{{ include.image }}" alt="{{ include.description }}"> {{ include.label_key }} <a href="{{ include.label_url }}"> {{ include.label_value }}</a>
 </div>

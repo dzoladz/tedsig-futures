@@ -61,10 +61,14 @@
 
 .closeModal:hover,
 .closeModal:focus {
-  color: #9bf1ff;
+  color: red;
   text-decoration: none;
   cursor: pointer;
   transform: scale(1.5);
+}
+
+.modalButton:hover {
+    cursor: pointer;
 }
 
 .modal-header {
@@ -85,4 +89,9 @@
 
 .modal-spacer {
   height: 10px;
+}
+
+.haiku-link:hover {
+    color: red !important;
+    border-bottom: dotted 1px;
 }

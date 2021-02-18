@@ -52,6 +52,7 @@ Each haiku style poem and painting pair represents a seed, an invitation for dia
 
 <div class="poem-row"> 
 
+
 {% include inline_image_half_width.html
     image='reciprocity-1.jpg'
     description='description'
@@ -59,7 +60,10 @@ Each haiku style poem and painting pair represents a seed, an invitation for dia
     label_value=''
     label_url=''
     float='left'
+    data_id='present'
+    class='modalButton'
 %}
+
 
 <div class="haiku">
 Life turned inward shifts,<br/>
@@ -81,6 +85,8 @@ reimagined stacks.
     label_value=''
     label_url=''
     float='left'
+    data_id='nearFuture'
+    class='modalButton'
 %}
 
 <div class="haiku">
@@ -103,6 +109,8 @@ brave sparks of knowing.
     label_value=''
     label_url=''
     float='left'
+    data_id='indeterminateFuture'
+    class='modalButton'
 %}
 
 <div class="haiku">
@@ -116,13 +124,8 @@ the third space of hope.
 <div style="clear: both;"></div>
 <hr/>
 
-## Development/Testing Space for Modals
-
 <!-- Trigger/Open The Modal -->
-<button id="readingList" class="modalButton">Reading List</button>
-<button id="present" class="modalButton">Present</button>
-<button id="nearFuture" class="modalButton">Near Future</button>
-<button id="indeterminateFuture" class="modalButton">Indeterminate Future</button>
+<button data-id="readingList" class="modalButton">Reading List</button>
 
 
 <!-- READING LIST | Modal -->
@@ -139,7 +142,7 @@ the third space of hope.
         <div class="modal-spacer"></div>
         <span class="citation">Benyus, Janine. <em>Biomimicry: Innovation Inspired by Nature</em>. New York: Perennial, 2002.</span>
         <div class="modal-spacer"></div>
-        <span class="citation">Kimmerer, Robin Wall and Krista Tippett, “867: “The Intelligence of Plants.” Produced by The On Being Project. <em>On Being</em>. August 20, 2020. Podcast, MP3 audio.  <a href="https://onbeing.org/programs/robin-wall-kimmerer-the-intelligence-of-plants/" target="_blank">https://onbeing.org/programs/robin-wall-kimmerer-the-intelligence-of-plants/</a>.</span>
+        <span class="citation">Kimmerer, Robin Wall and Krista Tippett, “867: “The Intelligence of Plants.” Produced by The On Being Project. <em>On Being</em>. August 20, 2020. Podcast, MP3 audio.  <a class="haiku-link" href="https://onbeing.org/programs/robin-wall-kimmerer-the-intelligence-of-plants/" target="_blank">https://onbeing.org/programs/robin-wall-kimmerer-the-intelligence-of-plants/</a>.</span>
         <div class="modal-spacer"></div>
         <span class="citation">Kimmerer, Robin Wall. <em>Gathering Moss: A Natural and Cultural History of Mosses</em>. Oregon: Oregon State University Press, 2003.</span>
         <div class="modal-spacer"></div>
@@ -149,7 +152,7 @@ the third space of hope.
         <div class="modal-spacer"></div>
         <span class="citation">Odell, Jenny. <em>How to Do Nothing: Resisting the Attention Economy</em>.  Brooklyn: Melville House, 2019.</span>
         <div class="modal-spacer"></div>
-        <span class="citation">Ellen Macarthur Foundation. “What is the Circular Economy,” Circular Economy. <a href="https://www.ellenmacarthurfoundation.org/circular-economy/what-is-the-circular-economy" target="_blank">https://www.ellenmacarthurfoundation.org/circular-economy/what-is-the-circular-economy</a> (accessed December 2, 2010).</span>
+        <span class="citation">Ellen Macarthur Foundation. “What is the Circular Economy,” Circular Economy. <a class="haiku-link" href="https://www.ellenmacarthurfoundation.org/circular-economy/what-is-the-circular-economy" target="_blank">https://www.ellenmacarthurfoundation.org/circular-economy/what-is-the-circular-economy</a> (accessed December 2, 2010).</span>
         <div class="modal-spacer"></div>
     </div>
   </div>
@@ -206,7 +209,7 @@ the third space of hope.
 
 $(document).ready(function() {
     $('.modalButton').click(function() {
-        var id = this.getAttribute('id');
+        var id = this.getAttribute('data-id');
         console.log(id);
         div = (id + 'Text');
         // display modal
