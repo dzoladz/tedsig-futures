@@ -31,6 +31,16 @@ authors:
     
 ---
 
+### DEV BookReader Objects
+- [ ] viewer object ids collide during instantiation, need variable to hold a mappable identifier
+
+{% include inline_bookreader.html
+    book_directory='alexandria_pitch_deck'
+%}
+
 {% include inline_bookreader.html
     book_directory='alexandria_business_proposal'
 %}
+
+
+
