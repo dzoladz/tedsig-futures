@@ -30,17 +30,30 @@ authors:
     }
     
 ---
+- [ ] Framing/Background
+- [ ] Open Library Manifesto
 
-### DEV BookReader Objects
-- [ ] viewer object ids collide during instantiation, need variable to hold a mappable identifier
-
-{% include inline_bookreader.html
-    book_directory='alexandria_pitch_deck'
-%}
+### Business Proposal
 
 {% include inline_bookreader.html
     book_directory='alexandria_business_proposal'
+    data-id='business_proposal'
 %}
+
+### Pitch Deck _INTERNAL_USE_ONLY_
+
+{% include inline_bookreader.html
+    book_directory='alexandria_pitch_internal_use_only'
+    data-id='internal_use_only'
+%}
+
+### Pitch Deck
+
+{% include inline_bookreader.html
+    book_directory='alexandria_pitch_deck'
+    data-id='pitch_deck'
+%}
+
 
 
 

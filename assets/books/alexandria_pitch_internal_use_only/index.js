@@ -11,47 +11,47 @@ function instantiateBookReader(selector, extraOptions) {
     data: [
       [
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/0.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/0.jpg' },
       ],
       [
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/1.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/1.jpg' },
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/2.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/2.jpg' },
       ],
       [
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/3.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/3.jpg' },
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/4.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/4.jpg' },
       ],
       [
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/5.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/5.jpg' },
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/6.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/6.jpg' },
       ],
       [
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/7.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/7.jpg' },
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/8.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/8.jpg' },
       ],
       [
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/9.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/9.jpg' },
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/10.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/10.jpg' },
       ],
       [
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/11.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/11.jpg' },
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/12.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/12.jpg' },
       ],
       [
         { width: 1500, height: 844,
-          uri: '../../../assets/books/alexandria_pitch_deck/images/13.jpg' },
+          uri: '../../../assets/books/alexandria_pitch_internal_use_only/images/13.jpg' },
       ]
     ],
 
@@ -62,10 +62,10 @@ function instantiateBookReader(selector, extraOptions) {
     bookUrlTitle: '',
 
     // thumbnail is optional, but it is used in the info dialog
-    thumbnail: '../../../assets/books/alexandria_pitch_deck/images/0.jpg',
+    thumbnail: '../../../assets/books/alexandria_pitch_internal_use_only/images/0.jpg',
     // Metadata is optional, but it is used in the info dialog
     metadata: [
-      {label: 'Title', value: 'Alexandr.ia Pitch Deck'},
+      {label: 'Title', value: 'Alexandr.ia Pitch - Internal Use Only'},
       {label: 'Compiled by', value: 'Liz Lang & Calvin Cleary'},
     ],
 

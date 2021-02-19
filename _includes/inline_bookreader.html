@@ -5,14 +5,16 @@ Example Use:
 
 {% include inline_bookreader.html
     book_directory='example'
+    data-id=''
 %}
 
+If data-id is not provided, defaults to #BookReader
 
 {% endcomment %} -->
 
 <section>
 
-  <div id="BookReader">
+  <div id="BookReader" data-id="{{ include.data-id }}">
       <noscript>
           <p>
               The BookReader requires JavaScript to be enabled. Please check that your browser supports JavaScript and that it is enabled in the browser settings.  You can also try one of the <a href="https://archive.org/details/goodytwoshoes00newyiala"> other formats of the book</a>.
@@ -22,7 +24,7 @@ Example Use:
 
   <script type="text/javascript" src="../../../assets/books/{{ include.book_directory }}/index.js"></script>
   <script>
-    instantiateBookReader('#BookReader');
+    instantiateBookReader('div[data-id="{{ include.data-id }}"]');
   </script>
 
 </section>
