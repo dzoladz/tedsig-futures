@@ -54,6 +54,12 @@ authors:
     data-id='pitch_deck'
 %}
 
+### Open Library Manifesto
 
-
-
+{% include inline_image_half_width.html
+    image='open_library_manifesto.jpg'
+    description='open library manifesto'
+    label_key=''
+    label_value=''
+    label_url=''
+%}
