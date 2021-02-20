@@ -27,6 +27,12 @@
             </a>
         {% endif %}
 
+        {% if author.linkedin %}
+            <a class="icon" href="http://linkedin.com/in/{{ author.linkedin }}">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        {% endif %}
+
         {% if author.website %}
             <a class="icon" href="{{ author.website }}">
                 <i class="fas fa-external-link-alt"></i>

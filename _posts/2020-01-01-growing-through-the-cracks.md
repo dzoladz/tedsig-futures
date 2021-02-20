@@ -12,11 +12,12 @@ show_in_menu: true
 authors:
   - {
     name: "Heidi Beke-Harrigan, Poems",
-    email: ,
-    affiliation: ,
-    twitter: ,
+    email: "heidib@ohionet.org",
+    affiliation: "OhioNET",
+    twitter: "BekeHarrigan",
     github: ,
     orcid: ,
+    linkedin: "hbekeharrigan",
     website: 
     }
   - {
