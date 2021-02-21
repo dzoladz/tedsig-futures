@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Notes on a speculative design reading group
-description: Text
+title: Notes on a Speculative Design Reading Group
+description: John Jung
 show_banner_image: false
 banner_image: assets/images/no-image.svg
 banner_image_description: no image available
-tile_image: assets/images/no-image.svg
+tile_image: assets/images/jung-tile.png
 tile_image_description:
 show_tile: true
 show_in_menu: true
@@ -17,7 +17,7 @@ authors:
     twitter: "johnjungdotus",
     github: "johnjung",
     orcid: ,
-    website: https://johnjung.us/
+    website: "https://johnjung.us"
     }
     
 ---
