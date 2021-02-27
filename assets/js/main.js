@@ -279,7 +279,7 @@
 			$menu._hide = function() {
 
 				if ($menu._lock())
-					$body.removeClass("is-menu-visible");
+					$body.removeClass('is-menu-visible');
 
 			};
 
