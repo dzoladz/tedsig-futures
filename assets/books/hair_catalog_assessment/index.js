@@ -98,3 +98,20 @@ function instantiateBookReader(selector, extraOptions) {
   var br = new BookReader(options);
   br.init();
 }
+
+//
+// Utility function to add CSS
+// IA BookReader control options ineffective
+//
+function removeControls(stylesheet) {
+  const style = document.createElement('style');
+  style.textContent = stylesheet;
+  document.head.append(style);
+}
+
+removeControls(`
+  button.book_left { display: none; }
+  button.book_right { display: none; }
+  button.twopg { display: none; }
+  button.onepg { display: none; }
+`);
