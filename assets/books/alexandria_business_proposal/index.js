@@ -80,3 +80,24 @@ function instantiateBookReader(selector, extraOptions) {
   var br = new BookReader(options);
   br.init();
 }
+
+//
+// Utility function to add CSS
+// IA BookReader control options ineffective
+//
+function removeControls(stylesheet) {
+  const style = document.createElement('style');
+  style.textContent = stylesheet;
+  document.head.append(style);
+}
+
+removeControls(`
+  div[data-id="business_proposal"] button.book_left { display: initial; }
+  div[data-id="business_proposal"] button.book_right { display: initial; }
+  div[data-id="business_proposal"] button.twopg { display: initial; }
+  div[data-id="business_proposal"] button.onepg { display: initial; }
+  button.book_left { display: none; }
+  button.book_right { display: none; }
+  button.twopg { display: none; }
+  button.onepg { display: none; }
+`);
