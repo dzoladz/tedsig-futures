@@ -11,43 +11,43 @@ function instantiateBookReader(selector, extraOptions) {
     data: [
       [
         { width: 3750, height: 5381,
-          uri: '../../../assets/books/alexandria_business_proposal/images/0.jpg' },
+          uri: '/assets/books/alexandria_business_proposal/images/0.jpg' },
       ],
       [
         { width: 3750, height: 5381,
-          uri: '../../../assets/books/alexandria_business_proposal/images/1.jpg' },
+          uri: '/assets/books/alexandria_business_proposal/images/1.jpg' },
         { width: 3750, height: 5381,
-          uri: '../../../assets/books/alexandria_business_proposal/images/2.jpg' },
+          uri: '/assets/books/alexandria_business_proposal/images/2.jpg' },
       ],
       [
         { width: 3750, height: 5381,
-          uri: '../../../assets/books/alexandria_business_proposal/images/3.jpg' },
+          uri: '/assets/books/alexandria_business_proposal/images/3.jpg' },
         { width: 3750, height: 5381,
-          uri: '../../../assets/books/alexandria_business_proposal/images/4.jpg' },
+          uri: '/assets/books/alexandria_business_proposal/images/4.jpg' },
       ],
       [
         { width: 3750, height: 5381,
-          uri: '../../../assets/books/alexandria_business_proposal/images/5.jpg' },
+          uri: '/assets/books/alexandria_business_proposal/images/5.jpg' },
         { width: 3750, height: 5381,
-          uri: '../../../assets/books/alexandria_business_proposal/images/6.jpg' },
+          uri: '/assets/books/alexandria_business_proposal/images/6.jpg' },
       ],
       [
         { width: 3750, height: 5381,
-          uri: '../../../assets/books/alexandria_business_proposal/images/7.jpg' },
+          uri: '/assets/books/alexandria_business_proposal/images/7.jpg' },
         { width: 3750, height: 5381,
-          uri: '../../../assets/books/alexandria_business_proposal/images/8.jpg' },
+          uri: '/assets/books/alexandria_business_proposal/images/8.jpg' },
       ],
       [
         { width: 3750, height: 5381,
-          uri: '../../../assets/books/alexandria_business_proposal/images/9.jpg' },
+          uri: '/assets/books/alexandria_business_proposal/images/9.jpg' },
         { width: 3750, height: 5381,
-          uri: '../../../assets/books/alexandria_business_proposal/images/10.jpg' },
+          uri: '/assets/books/alexandria_business_proposal/images/10.jpg' },
       ],
       [
         { width: 3750, height: 5381,
-          uri: '../../../assets/books/alexandria_business_proposal/images/11.jpg' },
+          uri: '/assets/books/alexandria_business_proposal/images/11.jpg' },
         { width: 3750, height: 5381,
-          uri: '../../../assets/books/alexandria_business_proposal/images/12.jpg' },
+          uri: '/assets/books/alexandria_business_proposal/images/12.jpg' },
       ]
     ],
 
@@ -58,7 +58,7 @@ function instantiateBookReader(selector, extraOptions) {
     bookUrlTitle: '',
 
     // thumbnail is optional, but it is used in the info dialog
-    thumbnail: '../../../assets/books/alexandria_business_proposal/images/0.jpg',
+    thumbnail: '/assets/books/alexandria_business_proposal/images/0.jpg',
     // Metadata is optional, but it is used in the info dialog
     metadata: [
       {label: 'Title', value: 'Alexandr.ia Business Proposal'},
@@ -66,7 +66,7 @@ function instantiateBookReader(selector, extraOptions) {
     ],
 
     // Override the path used to find UI images
-    imagesBaseURL: '../../../assets/BookReader/images/',
+    imagesBaseURL: '/assets/BookReader/images/',
 
     ui: 'full', // embed, full (responsive)
 

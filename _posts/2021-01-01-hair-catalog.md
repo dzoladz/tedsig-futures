@@ -83,6 +83,7 @@ Forty-five percent of samples are of moderate thickness, followed by 41% fine an
 
 {% include inline_bookreader.html
     book_directory='hair_catalog_assessment'
+    data-id='hair_catalog_assessment'
 %}
 
 The subjects of the books vary, but are dominated by American or Italian art and artists. Those with black hair were interested in Italian art while those with brown or yellow hair preferred American art. People with short hair favored books on abstract expressionism. Mostly those with straight hair used books on Chinese art or artists. People with moderately thick hair selected books on Caravaggio while books about Pablo Picasso were only used by straight-haired people. Only people with brown hair read books on Japanese art and they did not read anything about architecture.
@@ -95,7 +96,7 @@ Books 29cm or shorter in height had an average shorter hair length (6cm) than bo
     label_key='Fig. 4 - Automatic Cities'
     label_value=''
     label_url=''
-    float='left'
+    float='right'
 %}
 
 Marilyn Stokstad’s [All About Art: An Essential History](http://www.worldcat.org/oclc/1062003389) was used by someone with black coarse hair and someone with dark yellow fine hair. [Automatic Cities: The Architectural Imaginary in Contemporary Art](http://www.worldcat.org/oclc/326587231) was also used by people with black coarse and yellow fine hairs. Is the person with black coarse straight hair at 0.9cm length who read [Automatic Cities: The Architectural Imaginary in Contemporary Art](http://www.worldcat.org/oclc/326587231) the same as the person with black coarse straight hair at 0.9 cm who read [Artistic Expression: A Sociological Analysis](http://www.worldcat.org/oclc/803843429)?
@@ -108,7 +109,7 @@ Marilyn Stokstad’s [All About Art: An Essential History](http://www.worldcat.o
     label_key='Fig. 5 - Caravaggio'
     label_value=''
     label_url=''
-    float='right'
+    float='left'
 %}
 
 Was the person reading [Calder’s Universe](http://www.worldcat.org/oclc/958867476) who lost at least three hairs, two with the roots, stressed or sick? Or Witting’s [Caravaggio](http://www.worldcat.org/oclc/76936497)? Overall, Caravaggio books have a lot of hair; this suggests intimate reading. [Picasso](http://www.worldcat.org/oclc/1046498863) by Elgar and Maillard had at least four different people lose hair between the pages. It’s one of the smaller books in height, but relatively weighty in pages. It would take time to skim, let alone read in depth, suggesting that the longer spent with a book, the more likely hair would drift into the pages. Hair falling from a reader while lingering over a page spread, deeply gazing at an image. Flipping through these books’ pages, looking for evidence of use, of people, is seemingly nostalgic in a pandemic era. Preserve the reader.

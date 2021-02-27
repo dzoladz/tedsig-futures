@@ -28,11 +28,24 @@ Common signals of previous library book use include mutilation and maginalia; th
 
 Marginalia, including underlining, highlighting, and annotating text, is well examined in the literature. Contrary to the “mutilation” nomenclature of librarians, Bjorneborn and Fajkovic (2014) found that 40% of patrons appreciate marked-up library books noting, “they can comprehend the text more easily because of the comments and annotations made by previous readers” (911). Six functions of such reader commentary by students have been identified by Marshall (1997): as procedural signals identifying the important portions of a text in relation to an assignment; as placemarks for critical text to quote or return to; as ways of working through problems; as a means of interpreting the author’s words or the annotation of another student; as a method of visibly tracing their progress through the text; and as incidental markings, such as doodles, that are unrelated to the text. Attenborough (2011) found similar results, identifying marginalia by students as “pedagogic aids” (103) in which anonymity “undoubtedly played a part in enabling these publicly observable displays of 'doing education'” (109). When a future reader encounters a past reader’s annotations, the book “turns into an interactive act of handing down information from one reader to the next one in line” (Bjorneborn and Fajkovic 2014, 904).
 
+{% include inline_image_full_width.html
+    image='444leftReadingAmericanArt.jpg'
+    description='description'
+    label_key='Page 444 (left). Reading American Art'
+    label_value=''
+    label_url=''
+%}
+
 Sometimes the author of marginalia is known and, consequently, the side commentary is treated as a significant added value. Samuel Taylor Coleridge’s marginal note-taking is well-documented by H.J. Jackson (2001). In an early essay, Jackson (1993) relays a conversation with a librarian after he had identified Coleridge’s commentary in two of the library’s books. This increased the market value of the books, likely worth more than the librarian’s salary. The librarian’s response to this news? “People aren’t supposed to write in our books” (Jackson 1993, 217). She saw no difference between the poet and ordinary readers who dare leave behind a trace of their scholarly inquiry. A web project from the University of Virginia, Book Traces documents 19th and 20th century texts that “bear marks of use by their original owners;” viewers can browse an individual’s book use through images capturing “marginalia, annotations, inscriptions, and insertions” (“About”).
 
 The paradox of marginalia is again prevalent as library collections shift from print to electronic books. Students are discouraged from writing in print books while online participatory culture promotes tagging, commenting, and other forms of annotation in digital texts. In discussing the transition of marginalia from the printed page to the electronic one, Wagstaff (2012) comments “we are reinventing the same ideas, in a digital format, because they serve the same basic human desires" (22).
 
 What if librarians acknowledged these remainders of use as traces of scholarly communication, rather than destruction? How might we consider print collections as a means of connecting people to people, rather than to static information? Dourish and Chalmers (1994) theorize that “selecting objects because others have been examining them” is a form of social navigation. This community of readers is what makes a library’s copy of a book different from your store-bought copy. “Without seeking direct social contact, people still follow others as a means of discovery and inspiration” (Johansson 2014, 19).
+
+{% include inline_bookreader.html
+    book_directory='alternative_art_history'
+    data-id='alternative_art_history'
+%}
 
 Several artist works document reader engagement with one another through an emphasis on mutilation and marginalia. One project that encourages readers to leave traces of their navigation is Open Edit (2011), a mobile library that brought the Asia Art Archive to different Asian cities. The public was welcome to mark up the books through marginal writing, highlighting, and even removing pages. The Asia Art Archive states, “through these actions, people are reinterpreting the material, as well as engaging in a dialogue amongst themselves.” A photographic work that emphasizes book destruction from use is Kerry Mansfield’s Expired (2017). The series documents library books that have been withdrawn due to overuse, a “tactile decay reflecting a collective act of reading” (Meier 2017).
 
@@ -46,19 +59,9 @@ Another book, an art history text, also contained notes from former students. At
 
 Alternative Art History examines readers engagement with one another through print text. Imagine the librarian has been ordered to weed print material as it is taking up space needed for an augmented reality lab. These books have no digital surrogate; when the books are withdrawn, the scholarship will also be gone from that library. We say our priority is our patrons but our policies and procedures are for the benefit of the book. We might say, our priority if future readers, but the most efficient method of preserving our materials is to have no readers at all.
 
-{% include inline_image_full_width.html
-    image='444leftReadingAmericanArt.jpg'
-    description='description'
-    label_key='Fig. 1'
-    label_value=''
-    label_url=''
-%}
-
 In Alternative Art History, only the readers are preserved. To save their scholarly conversation, the librarian keeps only text that had been considered important to past readers. Social navigation is evident in these books’ pages. Once a book has been edited by a user, future users build on those edits, evidenced by highlighted text that is also underlined, highlighted again, or commented on in the margins. These navigations determine what information in the book is most valuable. The underlining, highlighting, and annotation become the new art history textbook.
 
-{% include inline_bookreader.html
-    book_directory='alternative_art_history'
-%}
+
 
 ## Bibliography
 

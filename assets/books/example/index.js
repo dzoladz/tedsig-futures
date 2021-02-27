@@ -14,71 +14,71 @@ function instantiateBookReader(selector, extraOptions) {
     data: [
       [
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/0.jpg' },
+          uri: '/assets/books/example/images/0.jpg' },
       ],
       [
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/blank_w.jpg' },
+          uri: '/assets/books/example/images/blank_w.jpg' },
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/1.jpg' },
+          uri: '/assets/books/example/images/1.jpg' },
       ],
       [
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/2.jpg' },
+          uri: '/assets/books/example/images/2.jpg' },
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/3.jpg' },
+          uri: '/assets/books/example/images/3.jpg' },
       ],
       [
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/4.jpg' },
+          uri: '/assets/books/example/images/4.jpg' },
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/5.jpg' },
+          uri: '/assets/books/example/images/5.jpg' },
       ],
       [
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/6.jpg' },
+          uri: '/assets/books/example/images/6.jpg' },
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/7.jpg' },
+          uri: '/assets/books/example/images/7.jpg' },
       ],
       [
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/8.jpg' },
+          uri: '/assets/books/example/images/8.jpg' },
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/9.jpg' },
+          uri: '/assets/books/example/images/9.jpg' },
       ],
       [
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/10.jpg' },
+          uri: '/assets/books/example/images/10.jpg' },
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/11.jpg' },
+          uri: '/assets/books/example/images/11.jpg' },
       ],
       [
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/12.jpg' },
+          uri: '/assets/books/example/images/12.jpg' },
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/13.jpg' },
+          uri: '/assets/books/example/images/13.jpg' },
       ],
       [
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/14.jpg' },
+          uri: '/assets/books/example/images/14.jpg' },
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/15.jpg' },
+          uri: '/assets/books/example/images/15.jpg' },
       ],
       [
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/16.jpg' },
+          uri: '/assets/books/example/images/16.jpg' },
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/17.jpg' },
+          uri: '/assets/books/example/images/17.jpg' },
       ],
       [
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/18.jpg' },
+          uri: '/assets/books/example/images/18.jpg' },
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/19.jpg' },
+          uri: '/assets/books/example/images/19.jpg' },
       ],
       [
         { width: 1185, height: 919,
-          uri: '../../../assets/books/example/images/21.jpg' },
+          uri: '/assets/books/example/images/21.jpg' },
       ]
     ],
 
@@ -89,7 +89,7 @@ function instantiateBookReader(selector, extraOptions) {
     bookUrlTitle: 'This is the book URL title',
 
     // thumbnail is optional, but it is used in the info dialog
-    thumbnail: '../../../assets/books/example/images/0.jpg',
+    thumbnail: '/assets/books/example/images/0.jpg',
     // Metadata is optional, but it is used in the info dialog
     metadata: [
       {label: 'Title', value: 'Lines'},
@@ -99,7 +99,7 @@ function instantiateBookReader(selector, extraOptions) {
     ],
 
     // Override the path used to find UI images
-    imagesBaseURL: '../../../assets/BookReader/images/',
+    imagesBaseURL: '/assets/BookReader/images/',
 
     ui: 'full', // embed, full (responsive)
 
