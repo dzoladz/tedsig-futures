@@ -110,7 +110,7 @@
 			width: 8em;
 
 			&:before, &:after {
-				@include vendor('transition', 'opacity #{_duration(transition)} ease-in-out');
+			    @include vendor('transition', 'opacity #{_duration(menu)} ease');
 				background-position: center;
 				background-repeat: no-repeat;
 				content: '';

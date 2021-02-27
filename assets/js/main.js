@@ -263,7 +263,7 @@
 
 				window.setTimeout(function() {
 					$menu._locked = false;
-				}, 350);
+				}, 2000);
 
 				return true;
 
@@ -279,7 +279,7 @@
 			$menu._hide = function() {
 
 				if ($menu._lock())
-					$body.removeClass('is-menu-visible');
+					$body.removeClass("is-menu-visible");
 
 			};
 
