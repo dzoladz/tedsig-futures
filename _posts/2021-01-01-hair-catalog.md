@@ -28,6 +28,8 @@ Library staff continually work to make books easier for patrons to locate. This 
 
 While a few libraries have made modifications to traditional library classification systems, "library classification is often not driven by quality or appropriateness to collection, but rather by a form of inertia. The same systems are used because they have always been used" (Clarke 2013, 227). Artists and designers frequently adopt this inertia as inspiration. An early speculative project related to library catalogs employed scent as a search strategy. In the early 1970s, the Upper Arlington public library in Ohio created the "Stick Your Nose in the Card Catalogue" project (“Fragrance-coded Card Catalog” 2018). Scratch-and-sniff scents were added to the card catalog so patrons could find a book by smell, sniffing along the stacks to find the book on the shelf that matched the card’s scent. While sniffing their way to a book can be viewed as a fun experiment, it required patrons to engage with the catalog and stacks in an entirely new way, reinventing the physical and social connections created by library spaces.
 
+> In the early 1970s, the Upper Arlington Public Library in Ohio created the “Stick Your Nose in the Card Catalogue” project...  An early speculative project related to library catalogs employing scent as a search strategy.
+
 These social connections are also explored in Eva Eriksson’s (2013) iFloor. She notes that the use of personal technology in public libraries turns the shared space “into small bubbles of private spheres” (7). To encourage community interaction, iFloor is a floor where answers to patron questions are displayed. Similarly, for the Seattle Central Library, artist George Legrady (2003) installed screens that displayed information about recently borrowed material, making community action visible (Pisciotta 2016). Siri Johansson’s (2014) thesis, Book Node, also prompts engagement by building on the participatory culture of libraries and examining a book’s use by multiple patrons over time. The project includes city nodes, places around the city where electronic books can be borrowed, returned, and recommended, and a library hub that provides digital connections between patrons reading print books. Ultimately, Book Node “comes very close to the previously unintended function of the book card with stamps and signatures, of giving a sense of connection to former readers and a bit of story about the book’s past” (Johansson 2014, 36).
 
 Alternative cataloging projects also question the authority of library classification schemes. For a New Jersey public library, Michael Clegg and Martin Guttmann (1990) cataloged books by their color and then created an artist book as “a bibliography that seems to intentionally assign Dewey Classification numbers incorrectly" (Pisciotta 2016, 12). The Prelinger Library’s books are shelved geospatially, rather than by traditional classification. “This arrangement system classifies subjects spatially and conceptually beginning with the physical world, moving into representation and culture, and ending with abstractions of society and theory” (“Collection: The Library’s Organizational System” 2020). These new classification systems create new connections between books, and subsequently between readers.
@@ -36,17 +38,18 @@ Alternative cataloging projects also question the authority of library classific
 
 Hair Catalog is another attempt to connect readers to readers. In the future, print books will not be valued for their text and image content, which may likely be available online, but as remnants of the past. As library collections become dominated by ebooks there are certainly electronic traces of past readers, but they are often not visible to current readers. Even if personally identifying information is available, there is a digital distance between readers that suggests anonymity and isolation. In aging print collections, future library users will seek this network of humans who handled and engaged with the book as an object. 
 
+> As library collections become dominated by ebooks there are certainly electronic traces of past readers, but they are often not visible to current readers.
+
 Dourish and Chalmers (1994) theorize that “selecting objects because others have been examining them” is a form of social navigation (1). This community of readers is what makes a library’s copy of a book different from a store-bought copy. “Without seeking direct social contact, people still follow others as a means of discovery and inspiration” (Johansson 2014, 19). Hair Catalog considers what future questions we might be able to answer about past readers and their interests. The project also raises concerns about what conclusions we might make using quantitative data or outdated methods of data collection and assessment.
 
 The estimated daily scalp hair loss is between 100-150 hairs, therefore the presence of hair in handled library books is highly expected. The distinct data fields for hair examination used for this catalog were derived from James Robertson’s (1999) [Forensic Examination of Hair](http://www.worldcat.org/oclc/1020495792). Robertson’s book was the first to bring together experts providing a comprehensive overview of the discipline, yet forensic examination of human hair has greatly changed in the past twenty years and is fraught with systemic biases about race, ethnicity, and age. I opted to use this outdated system to catalog my samples to help me reflect on issues with classification and cataloging. The book provides general categories of hair attributes to examine including length, thickness, color, and tip. Each attribute, except length, has a set of options to select from and each hair was best matched against those options. For example, a hair’s tip could be classed as tapered, cut, frayed, or split. General form could be straight, wavy, or curly.
 
-{% include inline_image_half_width.html
+{% include inline_image_full_width.html
     image='masterpieces.jpg'
     description='description'
     label_key='Fig. 1 - Masterpieces of Fifty Centuries'
     label_value=''
     label_url=''
-    float='left'
 %}
 
 The hairs were collected at an institutional library where I once worked. While examining books for withdrawal, I flipped through the pages to understand subject matter, image quality, and condition. Given my subject expertise in art, most of the books are about fine arts. When a hair was found between the pages, I taped it to paper and noted the book title. Each book’s attributes for Hair Catalog are from WorldCat metadata; the entire collection can be accessed as a [WorldCat public list](https://www.worldcat.org/profiles/artistlibrarian/lists/4007103). Determinations of hair attributes were set against the author’s own hair - straight, fine, brown hair - meaning that the entire process of cataloging was subjective. As an example, a fine, straight brown hair with a tapered tip and 5.4cm in length found in Kenneth Clark’s [Masterpieces of Fifty Centuries](http://www.worldcat.org/oclc/876328294) has the Hair Catalog call number br.f.s.t.5.4.
@@ -88,15 +91,16 @@ Forty-five percent of samples are of moderate thickness, followed by 41% fine an
 
 The subjects of the books vary, but are dominated by American or Italian art and artists. Those with black hair were interested in Italian art while those with brown or yellow hair preferred American art. People with short hair favored books on abstract expressionism. Mostly those with straight hair used books on Chinese art or artists. People with moderately thick hair selected books on Caravaggio while books about Pablo Picasso were only used by straight-haired people. Only people with brown hair read books on Japanese art and they did not read anything about architecture.
 
+> People with moderately thick hair selected books on Caravaggio while books about Pablo Picasso were only used by straight-haired people.
+
 Books 29cm or shorter in height had an average shorter hair length (6cm) than books 30cm or taller (10.3cm). People with yellow or brown hair read longer books (270 pages average) than black-haired people, reading books averaged 245 pages in length. White or red-haired people read less (225 and 213 average page length). Curly-haired people read more recent publications (1994) than straight (1987) or wavy (1989).
 
-{% include inline_image_half_width.html
+{% include inline_image_full_width.html
     image='automatic_cities.jpg'
     description='description'
     label_key='Fig. 4 - Automatic Cities'
     label_value=''
     label_url=''
-    float='right'
 %}
 
 Marilyn Stokstad’s [All About Art: An Essential History](http://www.worldcat.org/oclc/1062003389) was used by someone with black coarse hair and someone with dark yellow fine hair. [Automatic Cities: The Architectural Imaginary in Contemporary Art](http://www.worldcat.org/oclc/326587231) was also used by people with black coarse and yellow fine hairs. Is the person with black coarse straight hair at 0.9cm length who read [Automatic Cities: The Architectural Imaginary in Contemporary Art](http://www.worldcat.org/oclc/326587231) the same as the person with black coarse straight hair at 0.9 cm who read [Artistic Expression: A Sociological Analysis](http://www.worldcat.org/oclc/803843429)?
