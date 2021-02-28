@@ -99,5 +99,5 @@ removeControls(`
   button.book_left { display: none; }
   button.book_right { display: none; }
   button.twopg { display: none; }
-  button.onepg { display: none; }
+  //button.onepg { display: none; }
 `);
