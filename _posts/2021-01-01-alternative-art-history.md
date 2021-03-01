@@ -66,7 +66,7 @@ Another book, an art history text, also contained notes from former students. At
 {% include inline_image_full_width.html
     image='their_presence.jpg'
     description='description'
-    label_key='Page 38 [snippet]. Alternative Art History'
+    label_key='Page 38. Alternative Art History'
     label_value=''
     label_url=''
 %}
@@ -74,8 +74,6 @@ Another book, an art history text, also contained notes from former students. At
 Alternative Art History examines readers engagement with one another through print text. Imagine the librarian has been ordered to weed print material as it is taking up space needed for an augmented reality lab. These books have no digital surrogate; when the books are withdrawn, the scholarship will also be gone from that library. We say our priority is our patrons but our policies and procedures are for the benefit of the book. We might say, our priority if future readers, but the most efficient method of preserving our materials is to have no readers at all.
 
 In Alternative Art History, only the readers are preserved. To save their scholarly conversation, the librarian keeps only text that had been considered important to past readers. Social navigation is evident in these books’ pages. Once a book has been edited by a user, future users build on those edits, evidenced by highlighted text that is also underlined, highlighted again, or commented on in the margins. These navigations determine what information in the book is most valuable. The underlining, highlighting, and annotation become the new art history textbook.
-
-
 
 ## Bibliography
 
