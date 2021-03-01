@@ -22,8 +22,8 @@ authors:
     }
   - {
     name: "Katie DeJongh, Artwork",
-    email: ,
-    affiliation: ,
+    email: "kdejongh1@gmail.com",
+    affiliation: "Independent Artist",
     twitter: ,
     github: ,
     orcid: ,
