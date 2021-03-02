@@ -30,6 +30,14 @@ authors:
     }
     
 ---
+
+<p>**TO DO **<br/>
+[-] editorial read-through<br/>
+[-] adjust height IA BookReader for slide decks<br/>
+[-] weave artifacts, i.e. skimming reader achieves narrative cohesion<br/>
+[-] sign-off from contributors
+</p>
+
 ## Background
 
 Colleges and universities across the country are in dire financial straits thanks to a combination of shocks that culminated in the COVID-19 pandemic. Because of this, they are increasingly susceptible to predatory business practices. This had already started with the rise of adjunct faculty replacing tenure-track positions, but financial pressures in a post-coronavirus world may exacerbate this trend. Could libraries be susceptible to the organizational superstructure of Silicon Valley companies? Essentially: What would it look like if libraries adopted a sharing economy business model?

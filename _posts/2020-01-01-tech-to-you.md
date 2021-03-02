@@ -31,6 +31,10 @@ authors:
 
 ---
 
+<p>** TO DO**<br/>
+[-] add button to launch sway in full-screen?
+</p>
+
 Let us paint a picture for you: The year is 2030. Many brick and mortar libraries have shuttered due to lack of funding and the global pandemic ten years prior. Librarians, always at the forefront of social change and activism, noticed the void that libraries left within society. People no longer had a place for community connection and could no longer depend on the library for computer access, an issue that dangerously widen the digital divide that already existed in urban and rural communities.  Drawing on the Packhorse library initiative of the mid to late 1930s, librarians decided that if they couldn’t have people come to the library, they would bring the library to them. In April of 2030, the Tech to You program was born.
 
 <div class="sway" style="width: 100%; height: 500px; margin-bottom: 25px;">
