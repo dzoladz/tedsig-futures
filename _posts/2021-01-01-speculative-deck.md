@@ -42,8 +42,11 @@ In the field of design, critical design challenges conventionality by posing tro
 
 ## Bibliography
 
-<span class="citation">Souzis, A.E. 2015. “Momentary Ambiances: Psychogeography in Action." <em>Cultural Geographies</em> 22, no. 1: 193-201. [https://www.jstor.org/stable/26168633](https://www.jstor.org/stable/26168633) </span>
+<span class="citation">Robinson, S. 2019. “Critical Design in Librarianship: Visual and Narrative Exploration for Critical Praxis,” <em>The Library Quarterly</em> 89, no. 4: 348-361. [https://www.journals.uchicago.edu/doi/abs/10.1086/704965](https://www.journals.uchicago.edu/doi/abs/10.1086/704965) </span>
 
 <span class="citation">Salisbury, M. & Ferreira, N. 2017. “Drifting Through Research: How the Bibliodérive Inspired New Approaches to Information Literacy at Flaxman Library.” <em>Art Documentation: Journal of the Art Libraries Society of North America</em> 36, no. 1: 108-121. [https://www.journals.uchicago.edu/doi/full/10.1086/691375](https://www.journals.uchicago.edu/doi/full/10.1086/691375) </span>
 
-<span class="citation">Robinson, S. 2019. “Critical Design in Librarianship: Visual and Narrative Exploration for Critical Praxis,” <em>The Library Quarterly</em> 89, no. 4: 348-361. [https://www.journals.uchicago.edu/doi/abs/10.1086/704965](https://www.journals.uchicago.edu/doi/abs/10.1086/704965) </span>
+<span class="citation">Souzis, A.E. 2015. “Momentary Ambiances: Psychogeography in Action." <em>Cultural Geographies</em> 22, no. 1: 193-201. [https://www.jstor.org/stable/26168633](https://www.jstor.org/stable/26168633) </span>
+
+
+
