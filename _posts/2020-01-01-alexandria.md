@@ -31,8 +31,6 @@ authors:
     
 ---
 
-## Background
-
 Colleges and universities across the country are in dire financial straits thanks to a combination of shocks that culminated in the COVID-19 pandemic. Because of this, they are increasingly susceptible to predatory business practices. This had already started with the rise of adjunct faculty replacing tenure-track positions, but financial pressures in a post-coronavirus world may exacerbate this trend. Could libraries be susceptible to the organizational superstructure of Silicon Valley companies? Essentially: What would it look like if libraries adopted a sharing economy business model?
 
 Alexandr.ia is a multimedia look at the future of precarity in academic libraries in the form of a satirical pitch to Silicon Valley investors for an app called Alexandr.ia.
@@ -47,10 +45,10 @@ Alexandr.ia is a multimedia look at the future of precarity in academic librarie
 {% include inline_bookreader.html
     book_directory='alexandria_pitch_deck'
     data-id='pitch_deck'
-    height='500px'
+    height='470px'
 %}
 
-<hr/>
+<hr class="hr-divider"/>
 
 {% include inline_image_half_width.html
     image='open_library_manifesto.jpg'
@@ -59,6 +57,7 @@ Alexandr.ia is a multimedia look at the future of precarity in academic librarie
     label_value=''
     label_url=''
     float='left'
+    data_id='open-letter'
 %}
 
 <div id="open-library-collective">
@@ -71,8 +70,8 @@ Alexandr.ia is a multimedia look at the future of precarity in academic librarie
     <p>The real danger to library workers isn’t in automation; it’s in casualization. It’s needing two incomes to make a mortgage, then three, then four just to pay rent. It’s needing to always be on call to your employer, to be answering questions on Alexandr.ia at stoplights on your Lyft shifts, while your employer owes you nothing -- no healthcare, no benefits, no promises. They don’t want you out of work; they want you <em>always working</em>.</p>
     <p>Remember: Information wants to be free and the internet wants to be open. Don’t let companies like Alexandr.ia build walls where librarians should be building bridges. We stop this by collaborating, by building organizations that protect library workers instead of employers.</p>
     <p>We’re watching, Alexandr.ia. Good luck with your IPO.</p>
-    <p>Love & friendship,</p>
-    <p>The Open Libraries Collective</p>
+    <p>Love & friendship,<br>
+    The Open Libraries Collective</p>
 </div>
 
 {% include inline_bookreader.html
@@ -80,3 +79,11 @@ Alexandr.ia is a multimedia look at the future of precarity in academic librarie
     data-id='internal_use_only'
     height='500px'
 %}
+
+<script>
+    let letter = document.querySelector('[data-id="open-letter"]');
+    letter.onclick = function openLetter() {
+        window.location.assign('/assets/pdf/Open_Library_Manifesto.pdf')
+    }
+
+</script>
