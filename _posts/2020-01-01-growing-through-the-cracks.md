@@ -32,19 +32,13 @@ authors:
     
 ---
 
-## Background
-
 We inhabit a space and time marked by frenetic activity, heightened anxiety, and profound change; a continuous acceleration that has suddenly slammed into a brick wall of pandemic. Time suspends and slows during a crash and in its aftermath, there exists a sudden profound stillness, a palpable, acute, and disorienting immersion into the present moment. Whatever the catalyst, it serves as a stark reminder that motion and change are constant, no matter how placid the waters appear on the surface. It is from this unexpected still point in the center of chaotic movement that we can seek not to escape the world or anesthetize ourselves from it, but to listen deeply and gather the strength that launches us into something new.  
-
-## Purpose
 
 As libraries and librarians, nerve centers of our communities, curators of the past and present, and visionaries breathing life into the yet unimagined, we now find ourselves simultaneously holding space during both a great pause and innovative motion. We are holding awareness of opposites. From this non-binary experience of awareness, we invite the reader to contemplate the library future as part of a regenerative circle. We move beyond sustainability to the questions of what it means to exist in reciprocity and with the library as a center of regenerative culture. 
 
-## About the Work
+## 3 Speculative Invitations
 
 The short form of Japanese poetry, known as haiku, pares everything down to only the essentials yet draws a vivid picture in just a few words. Because it is intended to comment on the surroundings of the author and create contrasting imagery, haiku lends itself to our goal of imagining the post-pandemic library across three different but interconnected scenarios and times. The artwork provides a visual accompaniment to the words and a companion opportunity for reflection. 
-
-## 3 Speculative Invitations
 
 Each haiku style poem and painting pair represents a seed, an invitation for dialog to take in, synthesize, and co-create toward a future beyond sustainability and into a lived experience of reciprocity.
 
