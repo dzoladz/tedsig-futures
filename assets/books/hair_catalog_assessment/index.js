@@ -67,6 +67,11 @@ function instantiateBookReader(selector, extraOptions) {
       ],
     ],
 
+    onePage: {
+    /** @type {AutoFitValues} */
+        autofit: 'width',
+    },
+
     // Book title and the URL used for the book title link
     bookTitle: '',
     bookUrl: '',

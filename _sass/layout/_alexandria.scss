@@ -1,15 +1,25 @@
+#open-library-collective {
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin-bottom: 2.5em;
+}
 
 #open-library-collective p {
     margin: 0 0 1.5em 0;
     text-align: justify;
     font-family: Roboto;
     word-spacing: -1px;
+    color: #232323;
 }
 
 .hr-divider {
-    transform: translateX(-5%);
-    width: 110%;
+    transform: translateX(-10%);
+    width: 120%;
     border-bottom: solid 2px #585758;
+}
+
+[data-id="open-letter"] {
+    margin: 5px;
 }
 
 [data-id="open-letter"]:hover {

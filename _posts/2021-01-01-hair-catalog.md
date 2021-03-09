@@ -87,7 +87,7 @@ Forty-five percent of samples are of moderate thickness, followed by 41% fine an
 {% include inline_bookreader.html
     book_directory='hair_catalog_assessment'
     data-id='hair_catalog_assessment'
-    height='500px'
+    height='470px'
 %}
 
 The subjects of the books vary, but are dominated by American or Italian art and artists. Those with black hair were interested in Italian art while those with brown or yellow hair preferred American art. People with short hair favored books on abstract expressionism. Mostly those with straight hair used books on Chinese art or artists. People with moderately thick hair selected books on Caravaggio while books about Pablo Picasso were only used by straight-haired people. Only people with brown hair read books on Japanese art and they did not read anything about architecture.

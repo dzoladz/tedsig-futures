@@ -33,9 +33,9 @@ authors:
 
 Colleges and universities across the country are in dire financial straits thanks to a combination of shocks that culminated in the COVID-19 pandemic. Because of this, they are increasingly susceptible to predatory business practices. This had already started with the rise of adjunct faculty replacing tenure-track positions, but financial pressures in a post-coronavirus world may exacerbate this trend. Could libraries be susceptible to the organizational superstructure of Silicon Valley companies? Essentially: What would it look like if libraries adopted a sharing economy business model?
 
-Alexandr.ia is a multimedia look at the future of precarity in academic libraries in the form of a satirical pitch to Silicon Valley investors for an app called Alexandr.ia.
+## Four (Near Future) Artifacts from Alexandr.ia
 
-<hr/>
+This work is a multimedia look at the future of precarity in academic libraries in the form of a satirical pitch to Silicon Valley investors for an app called __Alexandr.ia__.
 
 {% include inline_bookreader.html
     book_directory='alexandria_business_proposal'
@@ -77,7 +77,7 @@ Alexandr.ia is a multimedia look at the future of precarity in academic librarie
 {% include inline_bookreader.html
     book_directory='alexandria_pitch_internal_use_only'
     data-id='internal_use_only'
-    height='500px'
+    height='470px'
 %}
 
 <script>

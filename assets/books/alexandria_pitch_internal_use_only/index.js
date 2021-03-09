@@ -69,6 +69,11 @@ function instantiateBookReader(selector, extraOptions) {
       {label: 'Compiled by', value: 'Liz Lang & Calvin Cleary'},
     ],
 
+    onePage: {
+    /** @type {AutoFitValues} */
+        autofit: 'width',
+    },
+
     // Override the path used to find UI images
     imagesBaseURL: '/assets/BookReader/images/',
 
@@ -81,6 +86,7 @@ function instantiateBookReader(selector, extraOptions) {
     defaults: 'mode/1up',
 
     showToolbar: false,
+
   };
   $.extend(options, extraOptions);
   var br = new BookReader(options);
