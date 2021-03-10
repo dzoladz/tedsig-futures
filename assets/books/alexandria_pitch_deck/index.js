@@ -92,3 +92,6 @@ function instantiateBookReader(selector, extraOptions) {
   var br = new BookReader(options);
   br.init();
 }
+
+// See alexandria_business_proposal/index.js
+// for additional JS to Book Reader instances

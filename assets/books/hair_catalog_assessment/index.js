@@ -104,19 +104,32 @@ function instantiateBookReader(selector, extraOptions) {
   br.init();
 }
 
-//
+// -------------------------------------------------
 // Utility function to add CSS
 // IA BookReader control options ineffective
-//
-function removeControls(stylesheet) {
+// -------------------------------------------------
+function adjustControls(stylesheet) {
   const style = document.createElement('style');
   style.textContent = stylesheet;
   document.head.append(style);
 }
 
-removeControls(`
-  button.book_left { display: none; }
-  button.book_right { display: none; }
+adjustControls(`
+  div[data-id="hair_catalog_assessment"] button.book_left .icon-left-arrow { transform: rotate(90deg); }
+  div[data-id="hair_catalog_assessment"] button.book_right .icon-left-arrow { transform: rotate(-90deg); }
   button.twopg { display: none; }
-  //button.onepg { display: none; }
 `);
+
+function updateHairCatalogAssessment() {
+  let lbuttonTitle = document.querySelector('[data-id="hair_catalog_assessment"] .book_left');
+  lbuttonTitle.setAttribute('title', 'Previous Slide');
+  let lbutton = document.querySelector('[data-id="hair_catalog_assessment"] .book_left .tooltip');
+  lbutton.innerHTML = 'Previous Slide'
+
+  let rbuttonTitle = document.querySelector('[data-id="hair_catalog_assessment"] .book_right');
+  rbuttonTitle.setAttribute('title', 'Next Slide');
+  let rbutton = document.querySelector('[data-id="hair_catalog_assessment"] .book_right .tooltip');
+  rbutton.innerHTML = 'Next Slide'
+}
+
+setTimeout(updateHairCatalogAssessment, 1000);
