@@ -22,6 +22,10 @@ authors:
  
 ---
 
+- move 'inspiration'
+- write introduction/background
+- where do we go from here?
+
 #### Inspiration:
 1. Dunne, Anthony & Raby, Fiona. (2013). [Speculative Everything: Design, Fiction, and Social Dreaming](http://www.worldcat.org/oclc/1100464370). Cambridge, Massachusetts: MIT Press.
 2. [TEDSIG 2020](https://tedsig.alaoweb.org/): Speculative and Critical Design and Libraries
