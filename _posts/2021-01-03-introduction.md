@@ -27,13 +27,13 @@ authors:
 </div>
 
 <div class="teasers">
-    <p><a href="">Speculative Card Deck</a> by Mackenzie Salisbury and Shannon Marie Robinson integrates Guy Debord's dérive into a beautifully-designed, critical deck of prompts and actions to generate situations that disrupt the traditional use value assigned to the library.</p>
-    <p><a>Notes on a Speculative Design Reading Group</a> by John Jung reflects on the conversations with artists, designers, and librarians that emerged during “Design After the End of the World”, a speculative design reading group at Chicago’s community lab LATITUDE.</p>    
-    <p><a>Hair Catalog</a> by Shannon Marie Robinson applies metadata of forensic examination to describe an object, highlighting how traditional metadata, such as title and author, influence discovery and control the development of new knowledges.</p>
-    <p><a>Alternative Art History</a> by Shannon Marie Robinson reconfigures the relations between archival memory, meaning-making, and how we query knowledge, by shifting away from the dominant perspective of the author and towards the preservation of scholarly communication between readers.</p>
-    <p><a>Tech to You</a> by Myiesha Speight and Bria Sinnott accepts the disintegration of the library as a physical place to explore fundamental questions about the qualifications of librarianship and the definition of impactful public services.</p>    
-    <p><a>Growing Through the Cracks</a> by Heidi Beke-Harrigan and Katie DeJongh asks us to accept stillness as a mode of generative thought, one that encourages optimistic and parallel futures to sprout from a nurturing and reciprocal dialogue between image and haiku.</p>
-    <p><a>Alexandr.ia</a> by Calvin Cleary and Liz Lang is a dystopian look at the future of precarity in academic libraries, which takes the form of a satirical pitch to Silicon Valley investors for an app called Alexandr.ia.</p>
+    <p><a href="{{ site.url }}/speculative-deck.html">Speculative Card Deck</a> by Mackenzie Salisbury and Shannon Marie Robinson integrates Guy Debord's dérive into a beautifully-designed, critical deck of prompts and actions to generate situations that disrupt the traditional use value assigned to the library.</p>
+    <p><a href="{{ site.url }}/notes-on-a-speculative-design-reading-group.html">Notes on a Speculative Design Reading Group</a> by John Jung reflects on the conversations with artists, designers, and librarians that emerged during “Design After the End of the World”, a speculative design reading group at Chicago’s community lab LATITUDE.</p>    
+    <p><a href="{{ site.url }}/hair-catalog.html">Hair Catalog</a> by Shannon Marie Robinson applies metadata of forensic examination to describe an object, highlighting how traditional metadata, such as title and author, influence discovery and control the development of new knowledges.</p>
+    <p><a href="{{ site.url }}/alternative-art-history.html">Alternative Art History</a> by Shannon Marie Robinson reconfigures the relations between archival memory, meaning-making, and how we query knowledge, by shifting away from the dominant perspective of the author and towards the preservation of scholarly communication between readers.</p>
+    <p><a href="{{ site.url }}/tech-to-you.html">Tech to You</a> by Myiesha Speight and Bria Sinnott accepts the disintegration of the library as a physical place to explore fundamental questions about the qualifications of librarianship and the definition of impactful public services.</p>    
+    <p><a href="{{ site.url }}/growing-through-the-cracks.html">Growing Through the Cracks</a> by Heidi Beke-Harrigan and Katie DeJongh asks us to accept stillness as a mode of generative thought, one that encourages optimistic and parallel futures to sprout from a nurturing and reciprocal dialogue between image and haiku.</p>
+    <p><a href="{{ site.url }}/alexandria.html">Alexandr.ia</a> by Calvin Cleary and Liz Lang is a dystopian look at the future of precarity in academic libraries, which takes the form of a satirical pitch to Silicon Valley investors for an app called Alexandr.ia.</p>
 </div>
 
 <hr>
