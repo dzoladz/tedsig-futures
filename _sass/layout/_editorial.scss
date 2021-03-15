@@ -1,0 +1,13 @@
+.teasers {
+        p {margin: 0 0 1.5em 0;}
+        strong {border-bottom: dotted 1px;}
+        a {font-weight: 700;}
+        a:hover {border-bottom: none; cursor: pointer;}
+    }
+
+.quotebox {
+    border: 1px solid #6f5e5e;
+    padding: 10px;
+    background: lighten(#1d2138, 5%);
+    margin: 0 1.5em 2.5em 1.5em;
+}

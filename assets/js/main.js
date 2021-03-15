@@ -263,7 +263,7 @@
 
 				window.setTimeout(function() {
 					$menu._locked = false;
-				}, 350);
+				}, 3000);
 
 				return true;
 

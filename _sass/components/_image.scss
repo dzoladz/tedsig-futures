@@ -64,3 +64,27 @@ img {
 			}
 		}
 	}
+
+.inline-image-full {
+    padding: 15px;
+    border: 1px solid rgba(212,212,255,0.1);
+    background-color: rgba(212,212,255,0.035);
+    width: 95%;
+    margin: 15px;
+}
+
+.inline-image-half-left {
+    padding: 15px;
+    border: 1px solid rgba(212,212,255,0.1);
+    background-color: rgba(212,212,255,0.035);
+    width: 50%;
+    margin: 0px 2.5em 2.5em 0px;
+}
+
+.inline-image-half-right {
+    padding: 15px;
+    border: 1px solid rgba(212,212,255,0.1);
+    background-color: rgba(212,212,255,0.035);
+    width: 50%;
+    margin: 0px 0px 2.5em 2.5em;
+}

@@ -1,6 +1,7 @@
-<section>
+<section class="authors">
     {% for author in page.authors %}
-        <strong>{{ author.name }}</strong> {{ author.affiliation }} |
+        <strong class="name">{{ author.name }}</strong>
+        <span class="affiliation">{{ author.affiliation }}</span>
 
         {% if author.email %}
             <a class="icon" href="mailto:{{ author.email }}">
@@ -17,6 +18,18 @@
         {% if author.github %}
             <a class="icon" href="https://github.com/{{ author.github }}">
                 <i class="fab fa-github"></i>
+            </a>
+        {% endif %}
+
+        {% if author.orcid %}
+            <a class="icon" href="https://orcid.org/{{ author.orcid }}">
+                <i class="fab fa-orcid"></i>
+            </a>
+        {% endif %}
+
+        {% if author.linkedin %}
+            <a class="icon" href="http://linkedin.com/in/{{ author.linkedin }}">
+                <i class="fab fa-linkedin-in"></i>
             </a>
         {% endif %}
 

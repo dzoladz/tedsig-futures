@@ -1,0 +1,28 @@
+<!-- {% comment %}
+Parameters available to be passed into this IncludeFile
+
+image: filename located in /images/images
+description: image alt value
+label_key:
+label_value:
+label_url:
+
+Example Use:
+
+{% include inline_image_half_width.html
+    image='automatic_cities.jpg'
+    description='description'
+    label_key='Fig. 1'
+    label_value=''
+    label_url=''
+    float='right'
+    data_id=''
+    class=''
+%}
+
+
+{% endcomment %} -->
+
+<div data-id="{{ include.data_id }}" class="inline-image-half-{{ include.float }} {{ include.class }}" style="float:{{ include.float }};" id="present">
+      <img src="/assets/images/{{ include.image }}" alt="{{ include.description }}"> {{ include.label_key }} <a href="{{ include.label_url }}"> {{ include.label_value }}</a>
+</div>

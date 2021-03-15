@@ -1,0 +1,20 @@
+<!-- {% comment %}
+Parameters available to be passed into this IncludeFile
+
+Example Use:
+
+
+{% include inline_image_full_width.html
+    image='automatic_cities.jpg'
+    description='description'
+    label_key='Fig. 1'
+    label_value=''
+    label_url=''
+%}
+
+
+{% endcomment %} -->
+
+<div class="inline-image-full">
+      <img src="/assets/images/{{ include.image }}" alt="{{ include.description }}"> {{ include.label_key }} <a href="{{ include.label_url}}"> {{ include.label_value }}</a>
+</div>

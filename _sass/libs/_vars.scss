@@ -14,8 +14,8 @@
 	$size: (
 		border-radius:		4px,
 		element-height:		2.75em,
-		element-margin:		2em,
-		inner:				65em
+		element-margin:		2.5em,
+		inner:				50em
 	);
 
 // Font.
@@ -30,13 +30,14 @@
 
 // Palette.
 	$palette: (
-		bg:					#242943,
-		bg-alt:				#2a2f4a,
+		bg:                 #1d2138,
+		bg-alt:				lighten(#1d2138, 3%),
 		fg:					#ffffff,
 		fg-bold:			#ffffff,
 		fg-light:			rgba(244,244,255,0.2),
 		border:				rgba(212,212,255,0.1),
 		border-bg:			rgba(212,212,255,0.035),
+		border-menu:		rgba(212,212,255,0.25),
 		highlight:			#9bf1ff,
 		accent1:			#6fc3df,
 		accent2:			#8d82c4,
