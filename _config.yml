@@ -8,7 +8,7 @@ permalink: /:title:output_ext
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 9
+tiles-count: 8
 
 # social settings
 500px_url:
@@ -20,13 +20,13 @@ instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url:
+twitter_url: https://twitter.com/alaotedsig
 
 #twitter & open graph card
 twitter_site: '@alaotedsig'
 twitter_creator: '@derek_zoladz'
-opengraph_description: 'This call for proposals seeks submissions for a web-based publication on speculative library futures.'
-opengraph_image: og_futures_cone.png
+opengraph_description: 'Speculative Library Futures | Post-Pandemic Libraries'
+opengraph_image: og_post_pandemic_libraries.org
 
 
 # build settings
