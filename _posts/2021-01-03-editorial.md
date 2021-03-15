@@ -27,7 +27,7 @@ authors:
 </div>
 
 <div class="teasers">
-    <p><a>Speculative Card Deck</a> by Mackenzie Salisbury and Shannon Marie Robinson integrates Guy Debord's dérive into a beautifully-designed, critical deck of prompts and actions to generate situations that disrupt the traditional use value assigned to the library.</p>
+    <p><a href="">Speculative Card Deck</a> by Mackenzie Salisbury and Shannon Marie Robinson integrates Guy Debord's dérive into a beautifully-designed, critical deck of prompts and actions to generate situations that disrupt the traditional use value assigned to the library.</p>
     <p><a>Notes on a Speculative Design Reading Group</a> by John Jung reflects on the conversations with artists, designers, and librarians that emerged during “Design After the End of the World”, a speculative design reading group at Chicago’s community lab LATITUDE.</p>    
     <p><a>Hair Catalog</a> by Shannon Marie Robinson applies metadata of forensic examination to describe an object, highlighting how traditional metadata, such as title and author, influence discovery and control the development of new knowledges.</p>
     <p><a>Alternative Art History</a> by Shannon Marie Robinson reconfigures the relations between archival memory, meaning-making, and how we query knowledge, by shifting away from the dominant perspective of the author and towards the preservation of scholarly communication between readers.</p>
