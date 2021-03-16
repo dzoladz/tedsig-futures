@@ -1,6 +1,6 @@
 TEDSIG | Speculative Library Futures
 ====================================
-Project Site
+[![DOI](https://zenodo.org/badge/310591330.svg)](https://zenodo.org/badge/latestdoi/310591330)
 
 [Example Elements](http://127.0.0.1:4000/elements)
 

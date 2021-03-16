@@ -5,6 +5,7 @@ description: '"Futures are not a destination, but a medium for imaginative thoug
 url: https://futures.alaoweb.org
 author: TEDSIG
 permalink: /:title:output_ext/
+doi: http://doi.org/10.5281/zenodo.4606860
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

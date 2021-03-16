@@ -34,9 +34,9 @@
 				{% endif %}
 			</ul>
 			<ul class="copyright">
-				<li>&copy; {{ 'now' | date: "%Y" }} {{ site.title }} {{ site.subtitle }}</li>
+				<li>&copy; {{ 'now' | date: "%Y" }} <a href="{{ site.url }}">{{ site.title }} {{ site.subtitle }}</a></li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-
+				<li>doi: <a href="{{ site.doi }}">{{ site.doi }}</a></li>
 			</ul>
 		</div>
 	</footer>
