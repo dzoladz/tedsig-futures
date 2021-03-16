@@ -23,7 +23,7 @@ authors:
 ---
 
 <div class="quotebox">
-<strong>Speculative Library Futures | Post-Pandemic Libraries</strong> is the culmiation of a yearlong exploration of speculative design and libraries by <a href="https://www.alaoweb.org/igs/tedsig/index.html/">TEDSIG</a>, the Technical, Electronic, and Digitial Services Interest Group of the <a href="https://www.alaoweb.org/">Academic Library Association of Ohio</a>.
+<strong>Speculative Library Futures | Post-Pandemic Libraries</strong> is the culmination of a yearlong exploration of speculative design and libraries by <a href="https://www.alaoweb.org/igs/tedsig/index.html/">TEDSIG</a>, the Technical, Electronic, and Digital Services Interest Group of the <a href="https://www.alaoweb.org/">Academic Library Association of Ohio</a>.
 </div>
 
 <div class="teasers">
